@@ -1,0 +1,5 @@
+# Nothing secret ever lives here. This repo is intentionally public and
+# contains only hashes, timestamp proofs, and (delayed) revealed payloads.
+__pycache__/
+*.pyc
+.DS_Store

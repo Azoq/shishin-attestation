@@ -1,0 +1,25 @@
+{
+  "date": "example",
+  "commit_hash": "ec9a9655d74a6f949a4aff8189e5307d8a2851e99d140bbe8dc126d46852350d",
+  "payload": {
+    "date": "example",
+    "engine": "BULL",
+    "nav": "250000.00",
+    "ledger_digest": "0000000000000000000000000000000000000000000000000000000000000000",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "AAA",
+        "engine": "BULL",
+        "score": "72.5"
+      },
+      {
+        "rank": 2,
+        "symbol": "BBB",
+        "engine": "BULL",
+        "score": "68.0"
+      }
+    ],
+    "nonce": "1111111111111111111111111111111111111111111111111111111111111111"
+  }
+}
