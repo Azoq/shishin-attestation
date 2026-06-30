@@ -1,0 +1,133 @@
+{
+  "date": "2026-06-26",
+  "commit_hash": "2db40922035ee758e22a9b34ec0b4632898142549d971db438553a672c306319",
+  "payload": {
+    "date": "2026-06-26",
+    "engine": "Suzaku",
+    "nav": "255662.83",
+    "ledger_digest": "930de2cf17fe34918e2fa55d439aef62c26c0047ac2bc4c7197e341c7cfaee21",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "AIIO",
+        "engine": "Suzaku",
+        "score": "79.98"
+      },
+      {
+        "rank": 2,
+        "symbol": "MANE",
+        "engine": "Suzaku",
+        "score": "77.43"
+      },
+      {
+        "rank": 3,
+        "symbol": "NEO",
+        "engine": "Suzaku",
+        "score": "75.16"
+      },
+      {
+        "rank": 4,
+        "symbol": "NRIX",
+        "engine": "Suzaku",
+        "score": "75.12"
+      },
+      {
+        "rank": 5,
+        "symbol": "MRVI",
+        "engine": "Suzaku",
+        "score": "73.88"
+      },
+      {
+        "rank": 6,
+        "symbol": "APPS",
+        "engine": "Suzaku",
+        "score": "73.31"
+      },
+      {
+        "rank": 7,
+        "symbol": "AGYS",
+        "engine": "Suzaku",
+        "score": "72.98"
+      },
+      {
+        "rank": 8,
+        "symbol": "PSNL",
+        "engine": "Suzaku",
+        "score": "72.98"
+      },
+      {
+        "rank": 9,
+        "symbol": "CDNL",
+        "engine": "Suzaku",
+        "score": "72.52"
+      },
+      {
+        "rank": 10,
+        "symbol": "BLLN",
+        "engine": "Suzaku",
+        "score": "72.21"
+      },
+      {
+        "rank": 11,
+        "symbol": "ACMR",
+        "engine": "Suzaku",
+        "score": "71.95"
+      },
+      {
+        "rank": 12,
+        "symbol": "MYRG",
+        "engine": "Suzaku",
+        "score": "71.70"
+      },
+      {
+        "rank": 13,
+        "symbol": "SNDK",
+        "engine": "Suzaku",
+        "score": "71.22"
+      },
+      {
+        "rank": 14,
+        "symbol": "MU",
+        "engine": "Suzaku",
+        "score": "71.02"
+      },
+      {
+        "rank": 15,
+        "symbol": "MEI",
+        "engine": "Suzaku",
+        "score": "70.76"
+      },
+      {
+        "rank": 16,
+        "symbol": "GH",
+        "engine": "Suzaku",
+        "score": "70.65"
+      },
+      {
+        "rank": 17,
+        "symbol": "UMC",
+        "engine": "Suzaku",
+        "score": "70.51"
+      },
+      {
+        "rank": 18,
+        "symbol": "SLS",
+        "engine": "Suzaku",
+        "score": "70.46"
+      },
+      {
+        "rank": 19,
+        "symbol": "TWST",
+        "engine": "Suzaku",
+        "score": "70.44"
+      },
+      {
+        "rank": 20,
+        "symbol": "ULCC",
+        "engine": "Suzaku",
+        "score": "70.34"
+      }
+    ],
+    "nonce": "57d00edef8b304d8bee5abf893e748b68249d1f1734096d834f24323a8a710e7"
+  }
+}
