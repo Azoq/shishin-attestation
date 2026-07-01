@@ -1,0 +1,133 @@
+{
+  "date": "2026-06-29",
+  "commit_hash": "53c5073c675c1ff22c6d7ff79b0ef558c3165adff0ce726ddd99e3f1aea8d8b4",
+  "payload": {
+    "date": "2026-06-29",
+    "engine": "Suzaku",
+    "nav": "255947.37",
+    "ledger_digest": "930de2cf17fe34918e2fa55d439aef62c26c0047ac2bc4c7197e341c7cfaee21",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "ABCL",
+        "engine": "Suzaku",
+        "score": "79.27"
+      },
+      {
+        "rank": 2,
+        "symbol": "APPS",
+        "engine": "Suzaku",
+        "score": "77.70"
+      },
+      {
+        "rank": 3,
+        "symbol": "PSNL",
+        "engine": "Suzaku",
+        "score": "76.22"
+      },
+      {
+        "rank": 4,
+        "symbol": "MANE",
+        "engine": "Suzaku",
+        "score": "75.84"
+      },
+      {
+        "rank": 5,
+        "symbol": "GH",
+        "engine": "Suzaku",
+        "score": "75.65"
+      },
+      {
+        "rank": 6,
+        "symbol": "CMPS",
+        "engine": "Suzaku",
+        "score": "75.48"
+      },
+      {
+        "rank": 7,
+        "symbol": "NESR",
+        "engine": "Suzaku",
+        "score": "73.65"
+      },
+      {
+        "rank": 8,
+        "symbol": "NEO",
+        "engine": "Suzaku",
+        "score": "73.50"
+      },
+      {
+        "rank": 9,
+        "symbol": "EVER",
+        "engine": "Suzaku",
+        "score": "73.40"
+      },
+      {
+        "rank": 10,
+        "symbol": "SDGR",
+        "engine": "Suzaku",
+        "score": "73.02"
+      },
+      {
+        "rank": 11,
+        "symbol": "AGYS",
+        "engine": "Suzaku",
+        "score": "72.93"
+      },
+      {
+        "rank": 12,
+        "symbol": "BLLN",
+        "engine": "Suzaku",
+        "score": "72.47"
+      },
+      {
+        "rank": 13,
+        "symbol": "VSXY",
+        "engine": "Suzaku",
+        "score": "72.31"
+      },
+      {
+        "rank": 14,
+        "symbol": "WRBY",
+        "engine": "Suzaku",
+        "score": "72.31"
+      },
+      {
+        "rank": 15,
+        "symbol": "LIF",
+        "engine": "Suzaku",
+        "score": "72.13"
+      },
+      {
+        "rank": 16,
+        "symbol": "FCEL",
+        "engine": "Suzaku",
+        "score": "71.73"
+      },
+      {
+        "rank": 17,
+        "symbol": "MITK",
+        "engine": "Suzaku",
+        "score": "71.59"
+      },
+      {
+        "rank": 18,
+        "symbol": "ACMR",
+        "engine": "Suzaku",
+        "score": "71.56"
+      },
+      {
+        "rank": 19,
+        "symbol": "OMDA",
+        "engine": "Suzaku",
+        "score": "71.51"
+      },
+      {
+        "rank": 20,
+        "symbol": "CLOV",
+        "engine": "Suzaku",
+        "score": "71.22"
+      }
+    ],
+    "nonce": "c3fd944879221e6fa49494a8bee3977a96f05b2e5010654b626723a38660dbe6"
+  }
+}
