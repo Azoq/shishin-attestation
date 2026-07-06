@@ -1,0 +1,133 @@
+{
+  "date": "2026-07-02",
+  "commit_hash": "755a1c9ee6bd9e96078bb72df1a60199c69af39b4391ffefdbf5fbe1b85e8881",
+  "payload": {
+    "date": "2026-07-02",
+    "engine": "Suzaku",
+    "nav": "256202.48",
+    "ledger_digest": "18a07125534860cd73a1147c057ad2368efb5257bf7eed65dbb6957a9e7806df",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "OUST",
+        "engine": "Suzaku",
+        "score": "79.11"
+      },
+      {
+        "rank": 2,
+        "symbol": "JACK",
+        "engine": "Suzaku",
+        "score": "76.46"
+      },
+      {
+        "rank": 3,
+        "symbol": "AXON",
+        "engine": "Suzaku",
+        "score": "76.01"
+      },
+      {
+        "rank": 4,
+        "symbol": "RPD",
+        "engine": "Suzaku",
+        "score": "74.00"
+      },
+      {
+        "rank": 5,
+        "symbol": "AMBQ",
+        "engine": "Suzaku",
+        "score": "73.50"
+      },
+      {
+        "rank": 6,
+        "symbol": "PGY",
+        "engine": "Suzaku",
+        "score": "73.28"
+      },
+      {
+        "rank": 7,
+        "symbol": "PENG",
+        "engine": "Suzaku",
+        "score": "73.27"
+      },
+      {
+        "rank": 8,
+        "symbol": "VPG",
+        "engine": "Suzaku",
+        "score": "72.28"
+      },
+      {
+        "rank": 9,
+        "symbol": "TENB",
+        "engine": "Suzaku",
+        "score": "72.26"
+      },
+      {
+        "rank": 10,
+        "symbol": "MXL",
+        "engine": "Suzaku",
+        "score": "72.19"
+      },
+      {
+        "rank": 11,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "72.07"
+      },
+      {
+        "rank": 12,
+        "symbol": "NP",
+        "engine": "Suzaku",
+        "score": "71.94"
+      },
+      {
+        "rank": 13,
+        "symbol": "ACMR",
+        "engine": "Suzaku",
+        "score": "71.77"
+      },
+      {
+        "rank": 14,
+        "symbol": "DELL",
+        "engine": "Suzaku",
+        "score": "71.54"
+      },
+      {
+        "rank": 15,
+        "symbol": "ICHR",
+        "engine": "Suzaku",
+        "score": "71.42"
+      },
+      {
+        "rank": 16,
+        "symbol": "AEVA",
+        "engine": "Suzaku",
+        "score": "71.40"
+      },
+      {
+        "rank": 17,
+        "symbol": "PRGS",
+        "engine": "Suzaku",
+        "score": "70.79"
+      },
+      {
+        "rank": 18,
+        "symbol": "ALAB",
+        "engine": "Suzaku",
+        "score": "70.78"
+      },
+      {
+        "rank": 19,
+        "symbol": "OSCR",
+        "engine": "Suzaku",
+        "score": "70.69"
+      },
+      {
+        "rank": 20,
+        "symbol": "BB",
+        "engine": "Suzaku",
+        "score": "70.49"
+      }
+    ],
+    "nonce": "e0331b0fe8abff2b3737cc050fd0111f97cce99782d10a5bfbc05d214c81827e"
+  }
+}
