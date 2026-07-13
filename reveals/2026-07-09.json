@@ -1,0 +1,133 @@
+{
+  "date": "2026-07-09",
+  "commit_hash": "20f99bce1b73fbf86b5736b204105f0c4d659bebac4e52d4a94e6d4b9474271f",
+  "payload": {
+    "date": "2026-07-09",
+    "engine": "Suzaku",
+    "nav": "240280.95",
+    "ledger_digest": "0431ed1de695d51fb80fb663b1280fbfc5e872f97448b42feda382ca6ee32190",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "PENG",
+        "engine": "Suzaku",
+        "score": "86.46"
+      },
+      {
+        "rank": 2,
+        "symbol": "BAND",
+        "engine": "Suzaku",
+        "score": "74.22"
+      },
+      {
+        "rank": 3,
+        "symbol": "RXT",
+        "engine": "Suzaku",
+        "score": "73.61"
+      },
+      {
+        "rank": 4,
+        "symbol": "PHVS",
+        "engine": "Suzaku",
+        "score": "72.80"
+      },
+      {
+        "rank": 5,
+        "symbol": "EWTX",
+        "engine": "Suzaku",
+        "score": "69.30"
+      },
+      {
+        "rank": 6,
+        "symbol": "PRME",
+        "engine": "Suzaku",
+        "score": "68.21"
+      },
+      {
+        "rank": 7,
+        "symbol": "BHVN",
+        "engine": "Suzaku",
+        "score": "68.19"
+      },
+      {
+        "rank": 8,
+        "symbol": "OKTA",
+        "engine": "Suzaku",
+        "score": "66.71"
+      },
+      {
+        "rank": 9,
+        "symbol": "GSHD",
+        "engine": "Suzaku",
+        "score": "66.19"
+      },
+      {
+        "rank": 10,
+        "symbol": "RLAY",
+        "engine": "Suzaku",
+        "score": "65.86"
+      },
+      {
+        "rank": 11,
+        "symbol": "VRNS",
+        "engine": "Suzaku",
+        "score": "65.63"
+      },
+      {
+        "rank": 12,
+        "symbol": "AGL",
+        "engine": "Suzaku",
+        "score": "65.26"
+      },
+      {
+        "rank": 13,
+        "symbol": "PTRN",
+        "engine": "Suzaku",
+        "score": "65.02"
+      },
+      {
+        "rank": 14,
+        "symbol": "PBF",
+        "engine": "Suzaku",
+        "score": "64.89"
+      },
+      {
+        "rank": 15,
+        "symbol": "ZVRA",
+        "engine": "Suzaku",
+        "score": "64.62"
+      },
+      {
+        "rank": 16,
+        "symbol": "VOR",
+        "engine": "Suzaku",
+        "score": "63.95"
+      },
+      {
+        "rank": 17,
+        "symbol": "MGNI",
+        "engine": "Suzaku",
+        "score": "63.73"
+      },
+      {
+        "rank": 18,
+        "symbol": "DAVE",
+        "engine": "Suzaku",
+        "score": "62.86"
+      },
+      {
+        "rank": 19,
+        "symbol": "DK",
+        "engine": "Suzaku",
+        "score": "62.80"
+      },
+      {
+        "rank": 20,
+        "symbol": "RARE",
+        "engine": "Suzaku",
+        "score": "62.44"
+      }
+    ],
+    "nonce": "7bc33c17e6263473cd144985fbd54df44c634d026eae0b1c7e579c8635b85e5c"
+  }
+}
