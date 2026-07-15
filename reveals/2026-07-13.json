@@ -1,0 +1,73 @@
+{
+  "date": "2026-07-13",
+  "commit_hash": "5bda74eb7fa1c8b48ea7430de12ab35d26114d3cd7a25e79d5ca3069b385025f",
+  "payload": {
+    "date": "2026-07-13",
+    "engine": "Suzaku",
+    "nav": "235450.82",
+    "ledger_digest": "0438f33640e1ecbc166eafc043970b7509e39d2535a7b830438f9251f2c2757b",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "WYFI",
+        "engine": "Suzaku",
+        "score": "75.42"
+      },
+      {
+        "rank": 2,
+        "symbol": "PENG",
+        "engine": "Suzaku",
+        "score": "73.96"
+      },
+      {
+        "rank": 3,
+        "symbol": "BAND",
+        "engine": "Suzaku",
+        "score": "72.76"
+      },
+      {
+        "rank": 4,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "69.08"
+      },
+      {
+        "rank": 5,
+        "symbol": "PSNL",
+        "engine": "Suzaku",
+        "score": "68.29"
+      },
+      {
+        "rank": 6,
+        "symbol": "PTRN",
+        "engine": "Suzaku",
+        "score": "67.47"
+      },
+      {
+        "rank": 7,
+        "symbol": "SEZL",
+        "engine": "Suzaku",
+        "score": "67.45"
+      },
+      {
+        "rank": 8,
+        "symbol": "RLAY",
+        "engine": "Suzaku",
+        "score": "65.79"
+      },
+      {
+        "rank": 9,
+        "symbol": "VRNS",
+        "engine": "Suzaku",
+        "score": "64.96"
+      },
+      {
+        "rank": 10,
+        "symbol": "KYMR",
+        "engine": "Suzaku",
+        "score": "64.21"
+      }
+    ],
+    "nonce": "c3fd871ff9bedaf1160d13580cf6cc4119848060bacbce13dbb7465b9634030a"
+  }
+}
