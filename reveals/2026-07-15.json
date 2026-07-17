@@ -1,0 +1,133 @@
+{
+  "date": "2026-07-15",
+  "commit_hash": "0a5a353cc93ded6ea5aebed9780ee09f05523a71499d0748fb02ac13bfd2a919",
+  "payload": {
+    "date": "2026-07-15",
+    "engine": "Suzaku",
+    "nav": "251068.95",
+    "ledger_digest": "be17e90c6e699c5c0d58eb53b0f770a39c53c1f6641996332f489a2427ddfa2a",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "SNOW",
+        "engine": "Suzaku",
+        "score": "74.09"
+      },
+      {
+        "rank": 2,
+        "symbol": "AGL",
+        "engine": "Suzaku",
+        "score": "73.93"
+      },
+      {
+        "rank": 3,
+        "symbol": "PENG",
+        "engine": "Suzaku",
+        "score": "73.44"
+      },
+      {
+        "rank": 4,
+        "symbol": "PSNL",
+        "engine": "Suzaku",
+        "score": "70.19"
+      },
+      {
+        "rank": 5,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "68.51"
+      },
+      {
+        "rank": 6,
+        "symbol": "RH",
+        "engine": "Suzaku",
+        "score": "68.26"
+      },
+      {
+        "rank": 7,
+        "symbol": "DAVE",
+        "engine": "Suzaku",
+        "score": "68.08"
+      },
+      {
+        "rank": 8,
+        "symbol": "SEZL",
+        "engine": "Suzaku",
+        "score": "67.39"
+      },
+      {
+        "rank": 9,
+        "symbol": "S",
+        "engine": "Suzaku",
+        "score": "67.34"
+      },
+      {
+        "rank": 10,
+        "symbol": "OKTA",
+        "engine": "Suzaku",
+        "score": "66.19"
+      },
+      {
+        "rank": 11,
+        "symbol": "TENB",
+        "engine": "Suzaku",
+        "score": "66.12"
+      },
+      {
+        "rank": 12,
+        "symbol": "ATAI",
+        "engine": "Suzaku",
+        "score": "66.03"
+      },
+      {
+        "rank": 13,
+        "symbol": "PBF",
+        "engine": "Suzaku",
+        "score": "65.86"
+      },
+      {
+        "rank": 14,
+        "symbol": "CBRL",
+        "engine": "Suzaku",
+        "score": "65.69"
+      },
+      {
+        "rank": 15,
+        "symbol": "NET",
+        "engine": "Suzaku",
+        "score": "65.39"
+      },
+      {
+        "rank": 16,
+        "symbol": "VRNS",
+        "engine": "Suzaku",
+        "score": "65.38"
+      },
+      {
+        "rank": 17,
+        "symbol": "OTLK",
+        "engine": "Suzaku",
+        "score": "65.00"
+      },
+      {
+        "rank": 18,
+        "symbol": "OSCR",
+        "engine": "Suzaku",
+        "score": "64.63"
+      },
+      {
+        "rank": 19,
+        "symbol": "CBZ",
+        "engine": "Suzaku",
+        "score": "64.29"
+      },
+      {
+        "rank": 20,
+        "symbol": "PTRN",
+        "engine": "Suzaku",
+        "score": "63.81"
+      }
+    ],
+    "nonce": "e0cfab5127a81269be032a08325f9e6f6dbc5005b886731f5a2a176a120e2b17"
+  }
+}
