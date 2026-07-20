@@ -1,0 +1,109 @@
+{
+  "date": "2026-07-16",
+  "commit_hash": "574ccb49b209902d36d0891d8a2880ff5582513e1439dded358aa1137ff74441",
+  "payload": {
+    "date": "2026-07-16",
+    "engine": "Suzaku",
+    "nav": "237231.59",
+    "ledger_digest": "a934864a1cf8fe0493aaea65fda5479fcd597f52232526a219998cad0a3660af",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "PSNL",
+        "engine": "Suzaku",
+        "score": "72.73"
+      },
+      {
+        "rank": 2,
+        "symbol": "SEZL",
+        "engine": "Suzaku",
+        "score": "70.28"
+      },
+      {
+        "rank": 3,
+        "symbol": "DAVE",
+        "engine": "Suzaku",
+        "score": "69.85"
+      },
+      {
+        "rank": 4,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "68.43"
+      },
+      {
+        "rank": 5,
+        "symbol": "RH",
+        "engine": "Suzaku",
+        "score": "68.04"
+      },
+      {
+        "rank": 6,
+        "symbol": "TDOC",
+        "engine": "Suzaku",
+        "score": "67.92"
+      },
+      {
+        "rank": 7,
+        "symbol": "OKTA",
+        "engine": "Suzaku",
+        "score": "67.49"
+      },
+      {
+        "rank": 8,
+        "symbol": "VRNS",
+        "engine": "Suzaku",
+        "score": "67.14"
+      },
+      {
+        "rank": 9,
+        "symbol": "ADPT",
+        "engine": "Suzaku",
+        "score": "67.00"
+      },
+      {
+        "rank": 10,
+        "symbol": "BLLN",
+        "engine": "Suzaku",
+        "score": "66.57"
+      },
+      {
+        "rank": 11,
+        "symbol": "MRVI",
+        "engine": "Suzaku",
+        "score": "66.55"
+      },
+      {
+        "rank": 12,
+        "symbol": "COMP",
+        "engine": "Suzaku",
+        "score": "65.88"
+      },
+      {
+        "rank": 13,
+        "symbol": "TENB",
+        "engine": "Suzaku",
+        "score": "65.03"
+      },
+      {
+        "rank": 14,
+        "symbol": "SHLS",
+        "engine": "Suzaku",
+        "score": "64.48"
+      },
+      {
+        "rank": 15,
+        "symbol": "QLYS",
+        "engine": "Suzaku",
+        "score": "64.02"
+      },
+      {
+        "rank": 16,
+        "symbol": "PBF",
+        "engine": "Suzaku",
+        "score": "63.69"
+      }
+    ],
+    "nonce": "85bba4065dec1d12f9ce9db39bd3228a52fb04b8e15a05b64c16d3732b521fd7"
+  }
+}
