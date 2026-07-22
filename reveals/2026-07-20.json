@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-20",
+  "commit_hash": "ec5dbede99d852217afd639bf30b6d7579cbbcbcb370c06ffeaa675fe340dbdd",
+  "payload": {
+    "date": "2026-07-20",
+    "engine": "Suzaku",
+    "nav": "239279.47",
+    "ledger_digest": "016f4d8c910f908464ead40f0e1275b2ac6879f10060055252ccbc213f2090d1",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "AGL",
+        "engine": "Suzaku",
+        "score": "71.37"
+      },
+      {
+        "rank": 2,
+        "symbol": "PSNL",
+        "engine": "Suzaku",
+        "score": "70.22"
+      },
+      {
+        "rank": 3,
+        "symbol": "PESI",
+        "engine": "Suzaku",
+        "score": "68.42"
+      },
+      {
+        "rank": 4,
+        "symbol": "ATAI",
+        "engine": "Suzaku",
+        "score": "68.04"
+      },
+      {
+        "rank": 5,
+        "symbol": "GRPN",
+        "engine": "Suzaku",
+        "score": "67.00"
+      },
+      {
+        "rank": 6,
+        "symbol": "VRNS",
+        "engine": "Suzaku",
+        "score": "66.29"
+      },
+      {
+        "rank": 7,
+        "symbol": "RHI",
+        "engine": "Suzaku",
+        "score": "66.22"
+      },
+      {
+        "rank": 8,
+        "symbol": "SLS",
+        "engine": "Suzaku",
+        "score": "66.12"
+      },
+      {
+        "rank": 9,
+        "symbol": "CDNA",
+        "engine": "Suzaku",
+        "score": "66.07"
+      },
+      {
+        "rank": 10,
+        "symbol": "DAVE",
+        "engine": "Suzaku",
+        "score": "65.91"
+      },
+      {
+        "rank": 11,
+        "symbol": "ADPT",
+        "engine": "Suzaku",
+        "score": "65.69"
+      },
+      {
+        "rank": 12,
+        "symbol": "ETON",
+        "engine": "Suzaku",
+        "score": "65.50"
+      },
+      {
+        "rank": 13,
+        "symbol": "PBF",
+        "engine": "Suzaku",
+        "score": "65.37"
+      },
+      {
+        "rank": 14,
+        "symbol": "QLYS",
+        "engine": "Suzaku",
+        "score": "64.88"
+      },
+      {
+        "rank": 15,
+        "symbol": "MBX",
+        "engine": "Suzaku",
+        "score": "63.61"
+      },
+      {
+        "rank": 16,
+        "symbol": "MAN",
+        "engine": "Suzaku",
+        "score": "63.29"
+      },
+      {
+        "rank": 17,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "63.03"
+      },
+      {
+        "rank": 18,
+        "symbol": "KYMR",
+        "engine": "Suzaku",
+        "score": "62.70"
+      }
+    ],
+    "nonce": "7fc4d2d17eb2683d6f7db0efa5887443438ee94c99a693e36914078550c68282"
+  }
+}
