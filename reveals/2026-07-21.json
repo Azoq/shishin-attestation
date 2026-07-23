@@ -1,0 +1,73 @@
+{
+  "date": "2026-07-21",
+  "commit_hash": "55dc37d76b3853c3f5a855920e5457dc3746d06a93c069f34afa305c4b1bd903",
+  "payload": {
+    "date": "2026-07-21",
+    "engine": "Suzaku",
+    "nav": "235029.15",
+    "ledger_digest": "016f4d8c910f908464ead40f0e1275b2ac6879f10060055252ccbc213f2090d1",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "XNCR",
+        "engine": "Suzaku",
+        "score": "73.18"
+      },
+      {
+        "rank": 2,
+        "symbol": "GMM",
+        "engine": "Suzaku",
+        "score": "68.70"
+      },
+      {
+        "rank": 3,
+        "symbol": "VRNS",
+        "engine": "Suzaku",
+        "score": "66.79"
+      },
+      {
+        "rank": 4,
+        "symbol": "GRPN",
+        "engine": "Suzaku",
+        "score": "65.80"
+      },
+      {
+        "rank": 5,
+        "symbol": "DAVE",
+        "engine": "Suzaku",
+        "score": "65.19"
+      },
+      {
+        "rank": 6,
+        "symbol": "PBF",
+        "engine": "Suzaku",
+        "score": "65.17"
+      },
+      {
+        "rank": 7,
+        "symbol": "EVER",
+        "engine": "Suzaku",
+        "score": "64.83"
+      },
+      {
+        "rank": 8,
+        "symbol": "AMC",
+        "engine": "Suzaku",
+        "score": "64.71"
+      },
+      {
+        "rank": 9,
+        "symbol": "RHI",
+        "engine": "Suzaku",
+        "score": "64.42"
+      },
+      {
+        "rank": 10,
+        "symbol": "MAN",
+        "engine": "Suzaku",
+        "score": "64.35"
+      }
+    ],
+    "nonce": "bca8bd2cd9f8f353c692080e557d33a25dbf254588b0470f77899ed1af3050ea"
+  }
+}
