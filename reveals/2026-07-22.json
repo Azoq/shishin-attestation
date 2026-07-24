@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-22",
+  "commit_hash": "bdca5b80ada5cf07b29e96adeb8b75d9cff5be7ebbadcb71624c86e15d4c2c65",
+  "payload": {
+    "date": "2026-07-22",
+    "engine": "Suzaku",
+    "nav": "229954.40",
+    "ledger_digest": "a381440532d7a9763cc6a728f744c35385e89ea74dbd3641051014fd05b9bbf6",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "HELP",
+        "engine": "Suzaku",
+        "score": "73.89"
+      },
+      {
+        "rank": 2,
+        "symbol": "IOVA",
+        "engine": "Suzaku",
+        "score": "71.89"
+      },
+      {
+        "rank": 3,
+        "symbol": "XMTR",
+        "engine": "Suzaku",
+        "score": "71.52"
+      },
+      {
+        "rank": 4,
+        "symbol": "ACHC",
+        "engine": "Suzaku",
+        "score": "67.83"
+      },
+      {
+        "rank": 5,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "66.86"
+      },
+      {
+        "rank": 6,
+        "symbol": "BLLN",
+        "engine": "Suzaku",
+        "score": "65.69"
+      },
+      {
+        "rank": 7,
+        "symbol": "URGN",
+        "engine": "Suzaku",
+        "score": "65.57"
+      },
+      {
+        "rank": 8,
+        "symbol": "ZBIO",
+        "engine": "Suzaku",
+        "score": "65.32"
+      },
+      {
+        "rank": 9,
+        "symbol": "PBF",
+        "engine": "Suzaku",
+        "score": "65.16"
+      }
+    ],
+    "nonce": "00201915537d44108d91f46b48b1b830da7b2254c23cc961c01e62a11a6b2e47"
+  }
+}
