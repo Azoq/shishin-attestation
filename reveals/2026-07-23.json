@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-23",
+  "commit_hash": "0299b3d8be844c2dc1ef2aae07b1efadb0351b292f4db6c8ce4280f4b19ede16",
+  "payload": {
+    "date": "2026-07-23",
+    "engine": "Suzaku",
+    "nav": "226074.74",
+    "ledger_digest": "5a30ecba843b9d73cb0c573d089bf4dfa3a9fc77396a525302d98ea37e3507ef",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "70.08"
+      },
+      {
+        "rank": 2,
+        "symbol": "MNPR",
+        "engine": "Suzaku",
+        "score": "67.99"
+      },
+      {
+        "rank": 3,
+        "symbol": "LQDA",
+        "engine": "Suzaku",
+        "score": "67.90"
+      },
+      {
+        "rank": 4,
+        "symbol": "GRPN",
+        "engine": "Suzaku",
+        "score": "64.94"
+      }
+    ],
+    "nonce": "6f62ea8d61ef49c6e7dba3ba8a5b1208954d44441d4f9bfd58e58c19634a2f61"
+  }
+}
