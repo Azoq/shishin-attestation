@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-27",
+  "commit_hash": "62ba4d684d3ddb72fd581f30f6f48e6ea85cbf7c4457c9dfba7d094565057c19",
+  "payload": {
+    "date": "2026-07-27",
+    "engine": "Suzaku",
+    "nav": "225928.01",
+    "ledger_digest": "08efc7b8e5478cf193aa1b7f1f2f7c76ee2bb98ac010a6e2e359048a2e8e3fdf",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "66.06"
+      },
+      {
+        "rank": 2,
+        "symbol": "FRMI",
+        "engine": "Suzaku",
+        "score": "62.97"
+      }
+    ],
+    "nonce": "c9a00929b4ffecf8d201fd7a78b2d91a9e030bacb038d6e0fc6349fc07c3df18"
+  }
+}
