@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-28",
+  "commit_hash": "c50eb2241ae9e3120c80b2c78b669d5df14befe0c36be8a07c81920048933ffe",
+  "payload": {
+    "date": "2026-07-28",
+    "engine": "Suzaku",
+    "nav": "219968.45",
+    "ledger_digest": "08efc7b8e5478cf193aa1b7f1f2f7c76ee2bb98ac010a6e2e359048a2e8e3fdf",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "GENI",
+        "engine": "Suzaku",
+        "score": "75.09"
+      },
+      {
+        "rank": 2,
+        "symbol": "ELF",
+        "engine": "Suzaku",
+        "score": "69.24"
+      },
+      {
+        "rank": 3,
+        "symbol": "DYN",
+        "engine": "Suzaku",
+        "score": "68.86"
+      },
+      {
+        "rank": 4,
+        "symbol": "NUVB",
+        "engine": "Suzaku",
+        "score": "68.36"
+      },
+      {
+        "rank": 5,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "65.72"
+      },
+      {
+        "rank": 6,
+        "symbol": "ANDG",
+        "engine": "Suzaku",
+        "score": "64.95"
+      },
+      {
+        "rank": 7,
+        "symbol": "MMED",
+        "engine": "Suzaku",
+        "score": "64.55"
+      },
+      {
+        "rank": 8,
+        "symbol": "ZBIO",
+        "engine": "Suzaku",
+        "score": "63.18"
+      },
+      {
+        "rank": 9,
+        "symbol": "MNPR",
+        "engine": "Suzaku",
+        "score": "62.28"
+      }
+    ],
+    "nonce": "90698a4bd0ff4d810dbd83ee42a0b92001e24d1d3cc674e0e3c8c844b303de26"
+  }
+}
