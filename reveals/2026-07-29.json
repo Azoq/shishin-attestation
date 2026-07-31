@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-29",
+  "commit_hash": "9efdb1ab0176ff2d84b6c66f509bd9ff0829e6d6578c3f0565b7a9ac6a630c9a",
+  "payload": {
+    "date": "2026-07-29",
+    "engine": "Suzaku",
+    "nav": "222655.23",
+    "ledger_digest": "08efc7b8e5478cf193aa1b7f1f2f7c76ee2bb98ac010a6e2e359048a2e8e3fdf",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "AMC",
+        "engine": "Suzaku",
+        "score": "77.61"
+      },
+      {
+        "rank": 2,
+        "symbol": "GSHD",
+        "engine": "Suzaku",
+        "score": "76.25"
+      },
+      {
+        "rank": 3,
+        "symbol": "RNG",
+        "engine": "Suzaku",
+        "score": "75.90"
+      },
+      {
+        "rank": 4,
+        "symbol": "WDAY",
+        "engine": "Suzaku",
+        "score": "74.30"
+      },
+      {
+        "rank": 5,
+        "symbol": "GRPN",
+        "engine": "Suzaku",
+        "score": "69.00"
+      },
+      {
+        "rank": 6,
+        "symbol": "FIVN",
+        "engine": "Suzaku",
+        "score": "67.66"
+      },
+      {
+        "rank": 7,
+        "symbol": "MAN",
+        "engine": "Suzaku",
+        "score": "66.37"
+      },
+      {
+        "rank": 8,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "63.58"
+      },
+      {
+        "rank": 9,
+        "symbol": "ETON",
+        "engine": "Suzaku",
+        "score": "62.40"
+      }
+    ],
+    "nonce": "ba80f938cdc116d6d349e1c32af9d06217e042829eb66d19b4c7cf1da223ad1a"
+  }
+}
