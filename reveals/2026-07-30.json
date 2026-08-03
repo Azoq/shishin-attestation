@@ -1,0 +1,103 @@
+{
+  "date": "2026-07-30",
+  "commit_hash": "66d3e3149b1dfd30e9247665c1ab7b8bc1ee4bc32481355521c66b453b325b9a",
+  "payload": {
+    "date": "2026-07-30",
+    "engine": "Suzaku",
+    "nav": "224915.10",
+    "ledger_digest": "08efc7b8e5478cf193aa1b7f1f2f7c76ee2bb98ac010a6e2e359048a2e8e3fdf",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "WDAY",
+        "engine": "Suzaku",
+        "score": "74.35"
+      },
+      {
+        "rank": 2,
+        "symbol": "AMC",
+        "engine": "Suzaku",
+        "score": "73.32"
+      },
+      {
+        "rank": 3,
+        "symbol": "CBRL",
+        "engine": "Suzaku",
+        "score": "71.18"
+      },
+      {
+        "rank": 4,
+        "symbol": "GSHD",
+        "engine": "Suzaku",
+        "score": "69.36"
+      },
+      {
+        "rank": 5,
+        "symbol": "PRGS",
+        "engine": "Suzaku",
+        "score": "68.57"
+      },
+      {
+        "rank": 6,
+        "symbol": "NP",
+        "engine": "Suzaku",
+        "score": "66.92"
+      },
+      {
+        "rank": 7,
+        "symbol": "FRSH",
+        "engine": "Suzaku",
+        "score": "66.53"
+      },
+      {
+        "rank": 8,
+        "symbol": "TTAN",
+        "engine": "Suzaku",
+        "score": "66.41"
+      },
+      {
+        "rank": 9,
+        "symbol": "MMED",
+        "engine": "Suzaku",
+        "score": "64.93"
+      },
+      {
+        "rank": 10,
+        "symbol": "MANH",
+        "engine": "Suzaku",
+        "score": "64.64"
+      },
+      {
+        "rank": 11,
+        "symbol": "NSP",
+        "engine": "Suzaku",
+        "score": "64.41"
+      },
+      {
+        "rank": 12,
+        "symbol": "CERT",
+        "engine": "Suzaku",
+        "score": "64.24"
+      },
+      {
+        "rank": 13,
+        "symbol": "ETON",
+        "engine": "Suzaku",
+        "score": "63.88"
+      },
+      {
+        "rank": 14,
+        "symbol": "KNSA",
+        "engine": "Suzaku",
+        "score": "63.45"
+      },
+      {
+        "rank": 15,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "63.35"
+      }
+    ],
+    "nonce": "f51f3b02d845ef952499ae09d89d2ff50db5104c70cbe77eeb9a6c3f32f19c51"
+  }
+}
