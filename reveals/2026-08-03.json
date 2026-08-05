@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-03",
+  "commit_hash": "069ef56757af4799b51640f5564db17c36a37f9c8b1654c26bec94fa27f3d263",
+  "payload": {
+    "date": "2026-08-03",
+    "engine": "Suzaku",
+    "nav": "218823.65",
+    "ledger_digest": "fb2a0ee82af69f5e7cb5edb5ae8687ff241816b794d938cd8e5ea19ef70b49cf",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "ARXS",
+        "engine": "Suzaku",
+        "score": "72.98"
+      },
+      {
+        "rank": 2,
+        "symbol": "AMC",
+        "engine": "Suzaku",
+        "score": "71.29"
+      },
+      {
+        "rank": 3,
+        "symbol": "PGEN",
+        "engine": "Suzaku",
+        "score": "68.03"
+      },
+      {
+        "rank": 4,
+        "symbol": "EFOR",
+        "engine": "Suzaku",
+        "score": "67.58"
+      },
+      {
+        "rank": 5,
+        "symbol": "CDNA",
+        "engine": "Suzaku",
+        "score": "67.35"
+      },
+      {
+        "rank": 6,
+        "symbol": "MBX",
+        "engine": "Suzaku",
+        "score": "66.73"
+      },
+      {
+        "rank": 7,
+        "symbol": "PGY",
+        "engine": "Suzaku",
+        "score": "66.40"
+      },
+      {
+        "rank": 8,
+        "symbol": "MGRX",
+        "engine": "Suzaku",
+        "score": "66.12"
+      },
+      {
+        "rank": 9,
+        "symbol": "PBF",
+        "engine": "Suzaku",
+        "score": "65.95"
+      },
+      {
+        "rank": 10,
+        "symbol": "CORT",
+        "engine": "Suzaku",
+        "score": "65.58"
+      },
+      {
+        "rank": 11,
+        "symbol": "AVTR",
+        "engine": "Suzaku",
+        "score": "62.42"
+      }
+    ],
+    "nonce": "e6e11f3890a04655e8464c584be9ddc90ccad40b5ed567acff5bb32e78fe49b9"
+  }
+}
