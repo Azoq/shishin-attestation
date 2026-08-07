@@ -1,0 +1,133 @@
+{
+  "date": "2026-08-05",
+  "commit_hash": "f5fde07fa13db144fa5d767a9a5254c2240a4f9a4d6a2d2d963a87ef3be9efd9",
+  "payload": {
+    "date": "2026-08-05",
+    "engine": "Suzaku",
+    "nav": "216757.38",
+    "ledger_digest": "e93f1e917e15b4603dc1918b668f9e297390dc1f365f7923eb3dadef5564acf8",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "DELL",
+        "engine": "Suzaku",
+        "score": "75.19"
+      },
+      {
+        "rank": 2,
+        "symbol": "HPE",
+        "engine": "Suzaku",
+        "score": "73.09"
+      },
+      {
+        "rank": 3,
+        "symbol": "MBX",
+        "engine": "Suzaku",
+        "score": "72.78"
+      },
+      {
+        "rank": 4,
+        "symbol": "FIG",
+        "engine": "Suzaku",
+        "score": "72.26"
+      },
+      {
+        "rank": 5,
+        "symbol": "LIF",
+        "engine": "Suzaku",
+        "score": "71.82"
+      },
+      {
+        "rank": 6,
+        "symbol": "GTLB",
+        "engine": "Suzaku",
+        "score": "71.11"
+      },
+      {
+        "rank": 7,
+        "symbol": "CHYM",
+        "engine": "Suzaku",
+        "score": "69.38"
+      },
+      {
+        "rank": 8,
+        "symbol": "BFLY",
+        "engine": "Suzaku",
+        "score": "68.25"
+      },
+      {
+        "rank": 9,
+        "symbol": "HELP",
+        "engine": "Suzaku",
+        "score": "68.21"
+      },
+      {
+        "rank": 10,
+        "symbol": "WGS",
+        "engine": "Suzaku",
+        "score": "67.90"
+      },
+      {
+        "rank": 11,
+        "symbol": "SNOW",
+        "engine": "Suzaku",
+        "score": "67.77"
+      },
+      {
+        "rank": 12,
+        "symbol": "BLLN",
+        "engine": "Suzaku",
+        "score": "67.64"
+      },
+      {
+        "rank": 13,
+        "symbol": "UMAC",
+        "engine": "Suzaku",
+        "score": "66.94"
+      },
+      {
+        "rank": 14,
+        "symbol": "ZETA",
+        "engine": "Suzaku",
+        "score": "66.65"
+      },
+      {
+        "rank": 15,
+        "symbol": "ULCC",
+        "engine": "Suzaku",
+        "score": "66.20"
+      },
+      {
+        "rank": 16,
+        "symbol": "ELF",
+        "engine": "Suzaku",
+        "score": "66.19"
+      },
+      {
+        "rank": 17,
+        "symbol": "WDAY",
+        "engine": "Suzaku",
+        "score": "66.12"
+      },
+      {
+        "rank": 18,
+        "symbol": "U",
+        "engine": "Suzaku",
+        "score": "66.09"
+      },
+      {
+        "rank": 19,
+        "symbol": "ARXS",
+        "engine": "Suzaku",
+        "score": "66.05"
+      },
+      {
+        "rank": 20,
+        "symbol": "PAY",
+        "engine": "Suzaku",
+        "score": "65.81"
+      }
+    ],
+    "nonce": "5c01ac23fee4c74e73c88a39e93392d14f5d025d762a91b17374880b27e5491d"
+  }
+}
