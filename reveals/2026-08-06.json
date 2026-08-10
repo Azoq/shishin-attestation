@@ -1,0 +1,133 @@
+{
+  "date": "2026-08-06",
+  "commit_hash": "6c5f82abc8ead02e78bb3ebb05178712f7d6453863643a77a5c9a518804f21c7",
+  "payload": {
+    "date": "2026-08-06",
+    "engine": "Suzaku",
+    "nav": "207595.24",
+    "ledger_digest": "abbe307c1d545ce4ca216e33fae187e6f86316bcef02fdbaa391dd9f656b7a6b",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "TWST",
+        "engine": "Suzaku",
+        "score": "78.89"
+      },
+      {
+        "rank": 2,
+        "symbol": "FIG",
+        "engine": "Suzaku",
+        "score": "77.81"
+      },
+      {
+        "rank": 3,
+        "symbol": "ZETA",
+        "engine": "Suzaku",
+        "score": "75.39"
+      },
+      {
+        "rank": 4,
+        "symbol": "ANET",
+        "engine": "Suzaku",
+        "score": "73.68"
+      },
+      {
+        "rank": 5,
+        "symbol": "SHOP",
+        "engine": "Suzaku",
+        "score": "73.62"
+      },
+      {
+        "rank": 6,
+        "symbol": "BOBS",
+        "engine": "Suzaku",
+        "score": "71.88"
+      },
+      {
+        "rank": 7,
+        "symbol": "SAIL",
+        "engine": "Suzaku",
+        "score": "69.64"
+      },
+      {
+        "rank": 8,
+        "symbol": "BLMN",
+        "engine": "Suzaku",
+        "score": "68.95"
+      },
+      {
+        "rank": 9,
+        "symbol": "BLLN",
+        "engine": "Suzaku",
+        "score": "68.72"
+      },
+      {
+        "rank": 10,
+        "symbol": "HELP",
+        "engine": "Suzaku",
+        "score": "68.09"
+      },
+      {
+        "rank": 11,
+        "symbol": "GENI",
+        "engine": "Suzaku",
+        "score": "67.20"
+      },
+      {
+        "rank": 12,
+        "symbol": "QLYS",
+        "engine": "Suzaku",
+        "score": "67.11"
+      },
+      {
+        "rank": 13,
+        "symbol": "ARXS",
+        "engine": "Suzaku",
+        "score": "66.63"
+      },
+      {
+        "rank": 14,
+        "symbol": "FRPT",
+        "engine": "Suzaku",
+        "score": "65.73"
+      },
+      {
+        "rank": 15,
+        "symbol": "CHYM",
+        "engine": "Suzaku",
+        "score": "65.17"
+      },
+      {
+        "rank": 16,
+        "symbol": "INTA",
+        "engine": "Suzaku",
+        "score": "64.98"
+      },
+      {
+        "rank": 17,
+        "symbol": "APPN",
+        "engine": "Suzaku",
+        "score": "64.74"
+      },
+      {
+        "rank": 18,
+        "symbol": "PGEN",
+        "engine": "Suzaku",
+        "score": "63.92"
+      },
+      {
+        "rank": 19,
+        "symbol": "URGN",
+        "engine": "Suzaku",
+        "score": "63.81"
+      },
+      {
+        "rank": 20,
+        "symbol": "PGY",
+        "engine": "Suzaku",
+        "score": "63.19"
+      }
+    ],
+    "nonce": "eabe8f81bec2eaa923ba0af527e32b1b89ee65057eeb851e62761259ba324fad"
+  }
+}
