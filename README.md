@@ -2,17 +2,31 @@
 
 A public, tamper-evident, timestamped record of the daily signals and net asset value (NAV) published by [Shishin](https://shishin.io).
 
-Shishin is a non-advisory quantitative research publisher. This log exists so anyone can independently verify that a signal or NAV figure we published was committed to in advance and has not been altered since. You do not have to trust us. You can check the math yourself with open tools.
+Shishin is a non-advisory quantitative research publisher. This log exists so anyone can independently verify that a signal or NAV figure we published was committed to at a provable time and has not been altered since. You do not have to trust us. You can check the math yourself with open tools.
 
 ## What this proves, and what it does not
 
 **It proves:**
-- each day's published signals and NAV were committed to at a specific time, so calling a move in advance is provable, and
+- each day's published signals and NAV existed, unaltered, at the moment the commitment was timestamped, which is **before that day's trades executed and before the day's outcome was known** (the commitment lands within minutes of the 09:30 ET open; entries fill later the same session), and
 - the published record has not been altered since.
 
 **It does not prove:**
+- **that the selection predates the market open.** It cannot, by construction: the scanner runs after the open and uses the day's opening price as a scoring input, so the picks do not exist until a few minutes into the session. The commitment is made as soon as they exist. See [When the commitment lands](#when-the-commitment-lands) for the exact clock.
 - that any trade was a real broker fill. The Shishin track record is **paper-traded**; this log attests the *predictions*, not executions.
 - that the strategy is or will be profitable.
+
+## When the commitment lands
+
+The precise timeline matters more than a general claim of being "in advance", so here it is:
+
+| Time (ET) | What happens |
+|---|---|
+| 09:30 | Market opens. |
+| ~09:36 | The scanner finishes. It consumes the day's opening print, so **the selection does not exist before this point.** |
+| ~09:40 | **The hash is committed here** and sent to OpenTimestamps. |
+| later in the session | Entries fill. The day's outcome is still unknown at commit time. |
+
+The window that a commitment cannot cover is the ~10 minutes between the open and the moment the selection exists. We publish that limitation rather than round it away. Everything the record is used for , whether a published pick preceded its own result , sits comfortably inside the proven window.
 
 ## How it works: commit, then reveal
 
@@ -46,3 +60,9 @@ python verify.py 2026-06-27
 - `chain/<date>.json` — the daily commitment: `{date, commit_hash, prev_hash, committed_utc}`, plus a `.ots` timestamp proof.
 - `reveals/<date>.json` — the revealed payload, published after the free-tier delay.
 - `verify.py` — recompute and check any revealed day, standard library only.
+
+## Ledger notes
+
+Anything irregular about a specific day is recorded here rather than left for a reader to discover.
+
+- **2026-06-26 is a backfill.** This log was created on 2026-06-27. Its first entry, the trading day 2026-06-26, was committed retroactively that morning (`committed_utc` 2026-06-27T08:39:27Z, about 33 hours after the trading date), so **that day's commitment carries no forward-looking claim**: the outcome was already known when the hash was made. It is included for chain continuity, not as evidence. Every day from **2026-06-29** onward, the log's first live day, was committed during its own trading session. `committed_utc` in each `chain/<date>.json` states the real commit time, and the OpenTimestamps proof is independent of anything we assert, so this is checkable rather than merely disclosed.
