@@ -61,6 +61,12 @@ python verify.py 2026-06-27
 - `reveals/<date>.json` — the revealed payload, published after the free-tier delay.
 - `verify.py` — recompute and check any revealed day, standard library only.
 
+## Licence and citation
+
+- **Data** (`chain/`, `reveals/`, and the OpenTimestamps proofs): [CC BY 4.0](LICENSE-DATA). Quote it, re-analyse it, check our claims against it.
+- **Code** (`verify.py`): [MIT](LICENSE), so you can build your own independent checker. Several people already have; that is the intended use.
+- A structured citation is in [`CITATION.cff`](CITATION.cff).
+
 ## Ledger notes
 
 Anything irregular about a specific day is recorded here rather than left for a reader to discover.

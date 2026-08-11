@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Shishin attestation log"
+message: >-
+  If you reference this log, or any figure whose provenance it establishes,
+  please cite it as below.
+type: dataset
+authors:
+  - name: "Shishin Research"
+    website: "https://shishin.io"
+abstract: >-
+  A public, tamper-evident, timestamped record of the daily equity signals and
+  net asset value published by Shishin Research. Each trading day is committed
+  as a chained SHA-256 hash and anchored to the Bitcoin blockchain via
+  OpenTimestamps at commit time, then revealed in full after a delay, so any
+  third party can confirm that a published figure existed unaltered at the
+  committed time. The data (chain/, reveals/) is CC BY 4.0; the included
+  verifier (verify.py, standard library only) is MIT so that anyone can build
+  an independent checker.
+url: "https://github.com/Azoq/shishin-attestation"
+repository-code: "https://github.com/Azoq/shishin-attestation"
+license:
+  - CC-BY-4.0
+  - MIT
+date-released: 2026-06-27
+keywords:
+  - attestation
+  - commit-reveal
+  - opentimestamps
+  - track record
+  - reproducibility
+  - quantitative finance

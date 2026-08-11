@@ -1,0 +1,23 @@
+Attestation data license
+========================
+
+The attestation data in this repository — everything under `chain/` and
+`reveals/`, including the OpenTimestamps proofs — is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:   https://creativecommons.org/licenses/by/4.0/
+
+You may share and adapt this data, including commercially, provided you give
+appropriate credit. Suggested attribution:
+
+    Shishin attestation log, Shishin Research.
+    https://github.com/Azoq/shishin-attestation
+
+A structured citation is in CITATION.cff.
+
+Why this license: the record is only useful if third parties can quote it,
+re-analyse it, and check our claims against it. Anything more restrictive
+would undercut the reason the log exists.
+
+The code in this repository (`verify.py`) is MIT-licensed instead. See LICENSE.
