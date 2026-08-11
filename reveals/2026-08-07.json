@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-07",
+  "commit_hash": "9f7ee10ab8b33f9cb271ea6b80b5f13164e6b715434a19f504f4e636cea09f2f",
+  "payload": {
+    "date": "2026-08-07",
+    "engine": "Suzaku",
+    "nav": "209977.82",
+    "ledger_digest": "2d521de45571d43484603a2221bba8c8f7798b4f783b96a4e73da54fcf9c547e",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "ARHS",
+        "engine": "Suzaku",
+        "score": "72.10"
+      },
+      {
+        "rank": 2,
+        "symbol": "PAYS",
+        "engine": "Suzaku",
+        "score": "70.74"
+      },
+      {
+        "rank": 3,
+        "symbol": "RGEN",
+        "engine": "Suzaku",
+        "score": "70.42"
+      },
+      {
+        "rank": 4,
+        "symbol": "QURE",
+        "engine": "Suzaku",
+        "score": "67.83"
+      },
+      {
+        "rank": 5,
+        "symbol": "U",
+        "engine": "Suzaku",
+        "score": "67.35"
+      },
+      {
+        "rank": 6,
+        "symbol": "AMLX",
+        "engine": "Suzaku",
+        "score": "66.76"
+      },
+      {
+        "rank": 7,
+        "symbol": "FTK",
+        "engine": "Suzaku",
+        "score": "66.69"
+      },
+      {
+        "rank": 8,
+        "symbol": "CHYM",
+        "engine": "Suzaku",
+        "score": "66.44"
+      },
+      {
+        "rank": 9,
+        "symbol": "BLZE",
+        "engine": "Suzaku",
+        "score": "65.83"
+      },
+      {
+        "rank": 10,
+        "symbol": "ELF",
+        "engine": "Suzaku",
+        "score": "65.65"
+      },
+      {
+        "rank": 11,
+        "symbol": "REPL",
+        "engine": "Suzaku",
+        "score": "65.51"
+      },
+      {
+        "rank": 12,
+        "symbol": "PGEN",
+        "engine": "Suzaku",
+        "score": "64.29"
+      },
+      {
+        "rank": 13,
+        "symbol": "AMPL",
+        "engine": "Suzaku",
+        "score": "64.20"
+      },
+      {
+        "rank": 14,
+        "symbol": "FA",
+        "engine": "Suzaku",
+        "score": "64.08"
+      },
+      {
+        "rank": 15,
+        "symbol": "GCT",
+        "engine": "Suzaku",
+        "score": "63.90"
+      },
+      {
+        "rank": 16,
+        "symbol": "APPN",
+        "engine": "Suzaku",
+        "score": "63.51"
+      },
+      {
+        "rank": 17,
+        "symbol": "ALNT",
+        "engine": "Suzaku",
+        "score": "62.20"
+      }
+    ],
+    "nonce": "5fed547b01521f8c150859ebf92e51441f1e2281d6a4045e56adfff121cb40dc"
+  }
+}
