@@ -26,6 +26,8 @@ The precise timeline matters more than a general claim of being "in advance", so
 | ~09:40 | **The hash is committed here** and sent to OpenTimestamps. |
 | later in the session | Entries fill. The day's outcome is still unknown at commit time. |
 
+The NAV in each payload is therefore **the account's mark at that moment, a few minutes into the session**, not a closing figure. That is what a commitment can honestly capture: the day's closing NAV does not exist yet when the day is committed. Each day's revealed payload carries the NAV that was true when its hash was made.
+
 The window that a commitment cannot cover is the ~10 minutes between the open and the moment the selection exists. We publish that limitation rather than round it away. Everything the record is used for , whether a published pick preceded its own result , sits comfortably inside the proven window.
 
 ## How it works: commit, then reveal
