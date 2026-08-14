@@ -1,0 +1,133 @@
+{
+  "date": "2026-08-11",
+  "commit_hash": "b37e6e5be688ae6c8849aa5fa296d70f610b7ca832415eed982ea8183d85adca",
+  "payload": {
+    "date": "2026-08-11",
+    "engine": "Suzaku",
+    "nav": "214400.32",
+    "ledger_digest": "4451ebea4b3f2d36e4a94aeb4d41fe7c2bae5f82f39db839b444d18c8bab8a8b",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "NTSK",
+        "engine": "Suzaku",
+        "score": "76.99"
+      },
+      {
+        "rank": 2,
+        "symbol": "PCLA",
+        "engine": "Suzaku",
+        "score": "75.33"
+      },
+      {
+        "rank": 3,
+        "symbol": "RBRK",
+        "engine": "Suzaku",
+        "score": "74.43"
+      },
+      {
+        "rank": 4,
+        "symbol": "TWST",
+        "engine": "Suzaku",
+        "score": "73.50"
+      },
+      {
+        "rank": 5,
+        "symbol": "BFLY",
+        "engine": "Suzaku",
+        "score": "73.44"
+      },
+      {
+        "rank": 6,
+        "symbol": "ALOY",
+        "engine": "Suzaku",
+        "score": "72.68"
+      },
+      {
+        "rank": 7,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "72.03"
+      },
+      {
+        "rank": 8,
+        "symbol": "AMPL",
+        "engine": "Suzaku",
+        "score": "71.01"
+      },
+      {
+        "rank": 9,
+        "symbol": "FIVN",
+        "engine": "Suzaku",
+        "score": "70.39"
+      },
+      {
+        "rank": 10,
+        "symbol": "TNDM",
+        "engine": "Suzaku",
+        "score": "70.28"
+      },
+      {
+        "rank": 11,
+        "symbol": "NESR",
+        "engine": "Suzaku",
+        "score": "69.90"
+      },
+      {
+        "rank": 12,
+        "symbol": "CLMT",
+        "engine": "Suzaku",
+        "score": "69.82"
+      },
+      {
+        "rank": 13,
+        "symbol": "NOW",
+        "engine": "Suzaku",
+        "score": "69.79"
+      },
+      {
+        "rank": 14,
+        "symbol": "PATH",
+        "engine": "Suzaku",
+        "score": "69.68"
+      },
+      {
+        "rank": 15,
+        "symbol": "FSLY",
+        "engine": "Suzaku",
+        "score": "69.59"
+      },
+      {
+        "rank": 16,
+        "symbol": "BRZE",
+        "engine": "Suzaku",
+        "score": "69.50"
+      },
+      {
+        "rank": 17,
+        "symbol": "WDAY",
+        "engine": "Suzaku",
+        "score": "68.77"
+      },
+      {
+        "rank": 18,
+        "symbol": "GTLB",
+        "engine": "Suzaku",
+        "score": "68.72"
+      },
+      {
+        "rank": 19,
+        "symbol": "SNOW",
+        "engine": "Suzaku",
+        "score": "68.18"
+      },
+      {
+        "rank": 20,
+        "symbol": "ADPT",
+        "engine": "Suzaku",
+        "score": "68.16"
+      }
+    ],
+    "nonce": "2ba4769698e27a2cbd0303008630f50ee4f963aa19051b8973cf56c318ba0ce6"
+  }
+}
