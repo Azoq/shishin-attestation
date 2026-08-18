@@ -1,0 +1,133 @@
+{
+  "date": "2026-08-14",
+  "commit_hash": "e8ff53a74e45abdf544e8b8b8ae1970c2021f143647cc01d2b3af048c97c09bd",
+  "payload": {
+    "date": "2026-08-14",
+    "engine": "Suzaku",
+    "nav": "217254.93",
+    "ledger_digest": "4451ebea4b3f2d36e4a94aeb4d41fe7c2bae5f82f39db839b444d18c8bab8a8b",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "AZ",
+        "engine": "Suzaku",
+        "score": "73.23"
+      },
+      {
+        "rank": 2,
+        "symbol": "ANRO",
+        "engine": "Suzaku",
+        "score": "72.80"
+      },
+      {
+        "rank": 3,
+        "symbol": "TWST",
+        "engine": "Suzaku",
+        "score": "72.23"
+      },
+      {
+        "rank": 4,
+        "symbol": "AEHR",
+        "engine": "Suzaku",
+        "score": "70.92"
+      },
+      {
+        "rank": 5,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "69.92"
+      },
+      {
+        "rank": 6,
+        "symbol": "SMWB",
+        "engine": "Suzaku",
+        "score": "69.83"
+      },
+      {
+        "rank": 7,
+        "symbol": "WIX",
+        "engine": "Suzaku",
+        "score": "69.74"
+      },
+      {
+        "rank": 8,
+        "symbol": "DELL",
+        "engine": "Suzaku",
+        "score": "69.64"
+      },
+      {
+        "rank": 9,
+        "symbol": "FSLY",
+        "engine": "Suzaku",
+        "score": "69.01"
+      },
+      {
+        "rank": 10,
+        "symbol": "NET",
+        "engine": "Suzaku",
+        "score": "68.82"
+      },
+      {
+        "rank": 11,
+        "symbol": "PATH",
+        "engine": "Suzaku",
+        "score": "68.78"
+      },
+      {
+        "rank": 12,
+        "symbol": "BLZE",
+        "engine": "Suzaku",
+        "score": "67.93"
+      },
+      {
+        "rank": 13,
+        "symbol": "AMPL",
+        "engine": "Suzaku",
+        "score": "67.72"
+      },
+      {
+        "rank": 14,
+        "symbol": "TTAN",
+        "engine": "Suzaku",
+        "score": "67.71"
+      },
+      {
+        "rank": 15,
+        "symbol": "PBF",
+        "engine": "Suzaku",
+        "score": "67.45"
+      },
+      {
+        "rank": 16,
+        "symbol": "HPE",
+        "engine": "Suzaku",
+        "score": "67.41"
+      },
+      {
+        "rank": 17,
+        "symbol": "FIVN",
+        "engine": "Suzaku",
+        "score": "67.27"
+      },
+      {
+        "rank": 18,
+        "symbol": "BRZE",
+        "engine": "Suzaku",
+        "score": "67.12"
+      },
+      {
+        "rank": 19,
+        "symbol": "ZETA",
+        "engine": "Suzaku",
+        "score": "67.00"
+      },
+      {
+        "rank": 20,
+        "symbol": "MDB",
+        "engine": "Suzaku",
+        "score": "66.89"
+      }
+    ],
+    "nonce": "a12badb5e6da69d012892d4a2c3a7f5543493219db09b25df6b9b6042cd95699"
+  }
+}
