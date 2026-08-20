@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-18",
+  "commit_hash": "8773109f978582b7f75263bf68b965a4014cba7a802b8c7bec5b7c1153d18179",
+  "payload": {
+    "date": "2026-08-18",
+    "engine": "Suzaku",
+    "nav": "213950.27",
+    "ledger_digest": "4451ebea4b3f2d36e4a94aeb4d41fe7c2bae5f82f39db839b444d18c8bab8a8b",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "CLYM",
+        "engine": "Suzaku",
+        "score": "76.80"
+      },
+      {
+        "rank": 2,
+        "symbol": "CADL",
+        "engine": "Suzaku",
+        "score": "72.37"
+      },
+      {
+        "rank": 3,
+        "symbol": "OII",
+        "engine": "Suzaku",
+        "score": "68.63"
+      },
+      {
+        "rank": 4,
+        "symbol": "ORKA",
+        "engine": "Suzaku",
+        "score": "67.30"
+      },
+      {
+        "rank": 5,
+        "symbol": "PBF",
+        "engine": "Suzaku",
+        "score": "66.25"
+      },
+      {
+        "rank": 6,
+        "symbol": "BETA",
+        "engine": "Suzaku",
+        "score": "65.73"
+      },
+      {
+        "rank": 7,
+        "symbol": "RGEN",
+        "engine": "Suzaku",
+        "score": "65.61"
+      },
+      {
+        "rank": 8,
+        "symbol": "FSLY",
+        "engine": "Suzaku",
+        "score": "65.02"
+      },
+      {
+        "rank": 9,
+        "symbol": "STX",
+        "engine": "Suzaku",
+        "score": "64.94"
+      },
+      {
+        "rank": 10,
+        "symbol": "BLZE",
+        "engine": "Suzaku",
+        "score": "63.72"
+      },
+      {
+        "rank": 11,
+        "symbol": "FDMT",
+        "engine": "Suzaku",
+        "score": "63.46"
+      },
+      {
+        "rank": 12,
+        "symbol": "PATH",
+        "engine": "Suzaku",
+        "score": "63.33"
+      },
+      {
+        "rank": 13,
+        "symbol": "WIX",
+        "engine": "Suzaku",
+        "score": "63.31"
+      },
+      {
+        "rank": 14,
+        "symbol": "ESTC",
+        "engine": "Suzaku",
+        "score": "62.79"
+      },
+      {
+        "rank": 15,
+        "symbol": "RNG",
+        "engine": "Suzaku",
+        "score": "62.36"
+      }
+    ],
+    "nonce": "83c05f89df0aa2285dfb57a43b7e307ee321822dc6c23bd7dd9787f93973d13f"
+  }
+}
