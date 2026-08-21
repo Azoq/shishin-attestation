@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-19",
+  "commit_hash": "1ddbaa954ac1ff1fef650ac7c4cd6794576a6e09d92cba05e41b8d43778fd115",
+  "payload": {
+    "date": "2026-08-19",
+    "engine": "Suzaku",
+    "nav": "220254.94",
+    "ledger_digest": "4451ebea4b3f2d36e4a94aeb4d41fe7c2bae5f82f39db839b444d18c8bab8a8b",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "BBNX",
+        "engine": "Suzaku",
+        "score": "75.92"
+      },
+      {
+        "rank": 2,
+        "symbol": "ETON",
+        "engine": "Suzaku",
+        "score": "70.18"
+      },
+      {
+        "rank": 3,
+        "symbol": "BETA",
+        "engine": "Suzaku",
+        "score": "68.36"
+      },
+      {
+        "rank": 4,
+        "symbol": "XNCR",
+        "engine": "Suzaku",
+        "score": "67.14"
+      },
+      {
+        "rank": 5,
+        "symbol": "WIX",
+        "engine": "Suzaku",
+        "score": "66.85"
+      },
+      {
+        "rank": 6,
+        "symbol": "ORKA",
+        "engine": "Suzaku",
+        "score": "66.23"
+      },
+      {
+        "rank": 7,
+        "symbol": "RNG",
+        "engine": "Suzaku",
+        "score": "66.04"
+      },
+      {
+        "rank": 8,
+        "symbol": "AVAH",
+        "engine": "Suzaku",
+        "score": "65.68"
+      },
+      {
+        "rank": 9,
+        "symbol": "BLZE",
+        "engine": "Suzaku",
+        "score": "65.06"
+      },
+      {
+        "rank": 10,
+        "symbol": "NMAX",
+        "engine": "Suzaku",
+        "score": "64.03"
+      },
+      {
+        "rank": 11,
+        "symbol": "CLMT",
+        "engine": "Suzaku",
+        "score": "63.80"
+      },
+      {
+        "rank": 12,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "63.55"
+      },
+      {
+        "rank": 13,
+        "symbol": "TMDX",
+        "engine": "Suzaku",
+        "score": "63.24"
+      },
+      {
+        "rank": 14,
+        "symbol": "ZETA",
+        "engine": "Suzaku",
+        "score": "62.59"
+      },
+      {
+        "rank": 15,
+        "symbol": "HNGE",
+        "engine": "Suzaku",
+        "score": "62.03"
+      }
+    ],
+    "nonce": "e8cff9532725362c9fd07cec5531c3e5e53ae5b97fad1aaeb91d3ca5c3c9c613"
+  }
+}
