@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-21",
+  "commit_hash": "70f8c5ef259fcda429c9f7364b35e8686efa2bcdab5da08a3994a26bd62e0504",
+  "payload": {
+    "date": "2026-08-21",
+    "engine": "Suzaku",
+    "nav": "220766.54",
+    "ledger_digest": "c80e74fb5863878cde2a27e0fe41b01a0143d117dadd673013ae6c21d14ab7c7",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "PSNL",
+        "engine": "Suzaku",
+        "score": "77.51"
+      },
+      {
+        "rank": 2,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "72.72"
+      },
+      {
+        "rank": 3,
+        "symbol": "TWST",
+        "engine": "Suzaku",
+        "score": "70.53"
+      },
+      {
+        "rank": 4,
+        "symbol": "CAI",
+        "engine": "Suzaku",
+        "score": "69.78"
+      },
+      {
+        "rank": 5,
+        "symbol": "PGEN",
+        "engine": "Suzaku",
+        "score": "68.55"
+      },
+      {
+        "rank": 6,
+        "symbol": "PCOR",
+        "engine": "Suzaku",
+        "score": "68.43"
+      },
+      {
+        "rank": 7,
+        "symbol": "WIX",
+        "engine": "Suzaku",
+        "score": "68.04"
+      },
+      {
+        "rank": 8,
+        "symbol": "CDNA",
+        "engine": "Suzaku",
+        "score": "66.75"
+      },
+      {
+        "rank": 9,
+        "symbol": "WK",
+        "engine": "Suzaku",
+        "score": "66.19"
+      },
+      {
+        "rank": 10,
+        "symbol": "XNCR",
+        "engine": "Suzaku",
+        "score": "66.00"
+      },
+      {
+        "rank": 11,
+        "symbol": "CHYM",
+        "engine": "Suzaku",
+        "score": "64.18"
+      },
+      {
+        "rank": 12,
+        "symbol": "BETA",
+        "engine": "Suzaku",
+        "score": "62.58"
+      },
+      {
+        "rank": 13,
+        "symbol": "ETON",
+        "engine": "Suzaku",
+        "score": "62.56"
+      }
+    ],
+    "nonce": "1c2e84ceab711263275d0750c547695603e25f05ca9a41ea04c1290fa6112c6a"
+  }
+}
