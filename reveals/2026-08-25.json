@@ -1,0 +1,109 @@
+{
+  "date": "2026-08-25",
+  "commit_hash": "a8ee197845003be99d3868dbea1466d264b87e4775ee0e326cc44d051988b2f5",
+  "payload": {
+    "date": "2026-08-25",
+    "engine": "Suzaku",
+    "nav": "224148.45",
+    "ledger_digest": "c80e74fb5863878cde2a27e0fe41b01a0143d117dadd673013ae6c21d14ab7c7",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "69.16"
+      },
+      {
+        "rank": 2,
+        "symbol": "TWST",
+        "engine": "Suzaku",
+        "score": "68.95"
+      },
+      {
+        "rank": 3,
+        "symbol": "ELF",
+        "engine": "Suzaku",
+        "score": "68.83"
+      },
+      {
+        "rank": 4,
+        "symbol": "APPN",
+        "engine": "Suzaku",
+        "score": "67.70"
+      },
+      {
+        "rank": 5,
+        "symbol": "WIX",
+        "engine": "Suzaku",
+        "score": "66.81"
+      },
+      {
+        "rank": 6,
+        "symbol": "AVAH",
+        "engine": "Suzaku",
+        "score": "65.77"
+      },
+      {
+        "rank": 7,
+        "symbol": "BRZE",
+        "engine": "Suzaku",
+        "score": "65.73"
+      },
+      {
+        "rank": 8,
+        "symbol": "SBET",
+        "engine": "Suzaku",
+        "score": "65.69"
+      },
+      {
+        "rank": 9,
+        "symbol": "CAI",
+        "engine": "Suzaku",
+        "score": "65.68"
+      },
+      {
+        "rank": 10,
+        "symbol": "GENB",
+        "engine": "Suzaku",
+        "score": "65.52"
+      },
+      {
+        "rank": 11,
+        "symbol": "FIVN",
+        "engine": "Suzaku",
+        "score": "64.67"
+      },
+      {
+        "rank": 12,
+        "symbol": "REPL",
+        "engine": "Suzaku",
+        "score": "63.79"
+      },
+      {
+        "rank": 13,
+        "symbol": "MRVI",
+        "engine": "Suzaku",
+        "score": "63.48"
+      },
+      {
+        "rank": 14,
+        "symbol": "HURN",
+        "engine": "Suzaku",
+        "score": "63.36"
+      },
+      {
+        "rank": 15,
+        "symbol": "ANRO",
+        "engine": "Suzaku",
+        "score": "63.21"
+      },
+      {
+        "rank": 16,
+        "symbol": "WDAY",
+        "engine": "Suzaku",
+        "score": "62.89"
+      }
+    ],
+    "nonce": "5fb5ae22ef788ab9ceb16b38fd1b210ae022db23ec2a70d316c23d414cf7a51c"
+  }
+}
