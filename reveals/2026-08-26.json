@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-26",
+  "commit_hash": "4fe51b3dacb1764b4ceabf2eea19b38850614540c8bf9e9a03a83ddcc9ce2116",
+  "payload": {
+    "date": "2026-08-26",
+    "engine": "Suzaku",
+    "nav": "226888.86",
+    "ledger_digest": "c80e74fb5863878cde2a27e0fe41b01a0143d117dadd673013ae6c21d14ab7c7",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "CDNA",
+        "engine": "Suzaku",
+        "score": "76.55"
+      },
+      {
+        "rank": 2,
+        "symbol": "REPL",
+        "engine": "Suzaku",
+        "score": "71.54"
+      },
+      {
+        "rank": 3,
+        "symbol": "TWST",
+        "engine": "Suzaku",
+        "score": "69.76"
+      },
+      {
+        "rank": 4,
+        "symbol": "WGS",
+        "engine": "Suzaku",
+        "score": "69.53"
+      },
+      {
+        "rank": 5,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "69.18"
+      },
+      {
+        "rank": 6,
+        "symbol": "CAI",
+        "engine": "Suzaku",
+        "score": "67.37"
+      },
+      {
+        "rank": 7,
+        "symbol": "WIX",
+        "engine": "Suzaku",
+        "score": "66.94"
+      },
+      {
+        "rank": 8,
+        "symbol": "MRVI",
+        "engine": "Suzaku",
+        "score": "66.70"
+      },
+      {
+        "rank": 9,
+        "symbol": "AVAH",
+        "engine": "Suzaku",
+        "score": "66.10"
+      },
+      {
+        "rank": 10,
+        "symbol": "GENB",
+        "engine": "Suzaku",
+        "score": "66.03"
+      },
+      {
+        "rank": 11,
+        "symbol": "IMMX",
+        "engine": "Suzaku",
+        "score": "65.48"
+      },
+      {
+        "rank": 12,
+        "symbol": "SBET",
+        "engine": "Suzaku",
+        "score": "65.15"
+      },
+      {
+        "rank": 13,
+        "symbol": "QURE",
+        "engine": "Suzaku",
+        "score": "64.50"
+      }
+    ],
+    "nonce": "10329670d0e187543f8284286e7e0bd9a61544338b2c2dbb75a13084c202ecbb"
+  }
+}
