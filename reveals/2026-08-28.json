@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-28",
+  "commit_hash": "3e6d77adf4bc4b41595d4debf844d22864ee5b735caadeda39ca1c3e8aab13cd",
+  "payload": {
+    "date": "2026-08-28",
+    "engine": "Suzaku",
+    "nav": "228896.53",
+    "ledger_digest": "ddc47ff831c101b6f5d7e61ecd20886ea0b2f199feea9580edb08736331ff360",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "AYA",
+        "engine": "Suzaku",
+        "score": "72.38"
+      },
+      {
+        "rank": 2,
+        "symbol": "CDNA",
+        "engine": "Suzaku",
+        "score": "71.97"
+      },
+      {
+        "rank": 3,
+        "symbol": "TWST",
+        "engine": "Suzaku",
+        "score": "70.73"
+      },
+      {
+        "rank": 4,
+        "symbol": "PGY",
+        "engine": "Suzaku",
+        "score": "69.98"
+      },
+      {
+        "rank": 5,
+        "symbol": "AVAH",
+        "engine": "Suzaku",
+        "score": "68.75"
+      },
+      {
+        "rank": 6,
+        "symbol": "PATH",
+        "engine": "Suzaku",
+        "score": "68.31"
+      },
+      {
+        "rank": 7,
+        "symbol": "TEM",
+        "engine": "Suzaku",
+        "score": "67.88"
+      },
+      {
+        "rank": 8,
+        "symbol": "BRZE",
+        "engine": "Suzaku",
+        "score": "66.20"
+      },
+      {
+        "rank": 9,
+        "symbol": "BMNR",
+        "engine": "Suzaku",
+        "score": "65.83"
+      },
+      {
+        "rank": 10,
+        "symbol": "SRPT",
+        "engine": "Suzaku",
+        "score": "65.18"
+      },
+      {
+        "rank": 11,
+        "symbol": "FWDI",
+        "engine": "Suzaku",
+        "score": "65.07"
+      },
+      {
+        "rank": 12,
+        "symbol": "SBET",
+        "engine": "Suzaku",
+        "score": "65.04"
+      },
+      {
+        "rank": 13,
+        "symbol": "TTAN",
+        "engine": "Suzaku",
+        "score": "64.83"
+      },
+      {
+        "rank": 14,
+        "symbol": "ANF",
+        "engine": "Suzaku",
+        "score": "64.20"
+      }
+    ],
+    "nonce": "13f431ccc57831a8149418678be920701f708f1cda208076951801e77461807e"
+  }
+}
