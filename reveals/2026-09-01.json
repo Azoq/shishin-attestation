@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-01",
+  "commit_hash": "1dec4de189ed55c8280d63a0adc39a7063a027be235d5b685a6f56da3bf7c6fb",
+  "payload": {
+    "date": "2026-09-01",
+    "engine": "Suzaku",
+    "nav": "224429.31",
+    "ledger_digest": "eeba34bb018806c0700054806b20fb2691c0c40b91d7857bb741a15a4b035bcb",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "KVYO",
+        "engine": "Suzaku",
+        "score": "71.56"
+      },
+      {
+        "rank": 2,
+        "symbol": "ZETA",
+        "engine": "Suzaku",
+        "score": "71.55"
+      },
+      {
+        "rank": 3,
+        "symbol": "NEOV",
+        "engine": "Suzaku",
+        "score": "70.31"
+      },
+      {
+        "rank": 4,
+        "symbol": "DK",
+        "engine": "Suzaku",
+        "score": "67.77"
+      },
+      {
+        "rank": 5,
+        "symbol": "AEHL",
+        "engine": "Suzaku",
+        "score": "67.59"
+      },
+      {
+        "rank": 6,
+        "symbol": "PATH",
+        "engine": "Suzaku",
+        "score": "67.00"
+      },
+      {
+        "rank": 7,
+        "symbol": "APPN",
+        "engine": "Suzaku",
+        "score": "65.81"
+      },
+      {
+        "rank": 8,
+        "symbol": "INBX",
+        "engine": "Suzaku",
+        "score": "65.76"
+      },
+      {
+        "rank": 9,
+        "symbol": "BRZE",
+        "engine": "Suzaku",
+        "score": "64.04"
+      },
+      {
+        "rank": 10,
+        "symbol": "ESTC",
+        "engine": "Suzaku",
+        "score": "63.59"
+      },
+      {
+        "rank": 11,
+        "symbol": "SBET",
+        "engine": "Suzaku",
+        "score": "62.67"
+      },
+      {
+        "rank": 12,
+        "symbol": "ANF",
+        "engine": "Suzaku",
+        "score": "62.63"
+      }
+    ],
+    "nonce": "4d0ff4c31c08a3d6b7a59fec1e132898f8f988ca10385ac3f1bd28693df4b413"
+  }
+}
