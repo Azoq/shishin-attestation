@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-02",
+  "commit_hash": "68b511c8ef08721d3d38b604d816205b482d0fec9f1af6a596d6996af5d186ab",
+  "payload": {
+    "date": "2026-09-02",
+    "engine": "Suzaku",
+    "nav": "216834.86",
+    "ledger_digest": "b126c55f56d52e484c74b93ea013d2cb0d0179932ef4cce3a0b5dc5daab084a0",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "DUOL",
+        "engine": "Suzaku",
+        "score": "75.64"
+      },
+      {
+        "rank": 2,
+        "symbol": "MMED",
+        "engine": "Suzaku",
+        "score": "74.12"
+      },
+      {
+        "rank": 3,
+        "symbol": "FRNM",
+        "engine": "Suzaku",
+        "score": "72.95"
+      },
+      {
+        "rank": 4,
+        "symbol": "PLSE",
+        "engine": "Suzaku",
+        "score": "67.36"
+      },
+      {
+        "rank": 5,
+        "symbol": "ZETA",
+        "engine": "Suzaku",
+        "score": "67.13"
+      },
+      {
+        "rank": 6,
+        "symbol": "PATH",
+        "engine": "Suzaku",
+        "score": "66.50"
+      },
+      {
+        "rank": 7,
+        "symbol": "CLMT",
+        "engine": "Suzaku",
+        "score": "66.26"
+      },
+      {
+        "rank": 8,
+        "symbol": "VIR",
+        "engine": "Suzaku",
+        "score": "65.44"
+      },
+      {
+        "rank": 9,
+        "symbol": "IOVA",
+        "engine": "Suzaku",
+        "score": "64.79"
+      },
+      {
+        "rank": 10,
+        "symbol": "WIX",
+        "engine": "Suzaku",
+        "score": "63.84"
+      },
+      {
+        "rank": 11,
+        "symbol": "ANF",
+        "engine": "Suzaku",
+        "score": "62.07"
+      }
+    ],
+    "nonce": "d1bcd24909455ed9407f9feafded79f59162168f4388a6fe154d74b6d46aaeab"
+  }
+}
