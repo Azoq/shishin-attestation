@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-04",
+  "commit_hash": "88ee08e3333ab29ae3da741ef1aa3c5a9a2a89f46e516cc11ed4f0939f33ad19",
+  "payload": {
+    "date": "2026-09-04",
+    "engine": "Suzaku",
+    "nav": "214970.27",
+    "ledger_digest": "241c95ca4ead5ad30092bfeacf7ff45c05bbf70fb4758038db18a3ffbfd58783",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "RSKD",
+        "engine": "Suzaku",
+        "score": "73.54"
+      },
+      {
+        "rank": 2,
+        "symbol": "IOVA",
+        "engine": "Suzaku",
+        "score": "70.89"
+      },
+      {
+        "rank": 3,
+        "symbol": "ABTC",
+        "engine": "Suzaku",
+        "score": "70.46"
+      },
+      {
+        "rank": 4,
+        "symbol": "PLSE",
+        "engine": "Suzaku",
+        "score": "69.12"
+      },
+      {
+        "rank": 5,
+        "symbol": "DOCS",
+        "engine": "Suzaku",
+        "score": "67.98"
+      },
+      {
+        "rank": 6,
+        "symbol": "BMNR",
+        "engine": "Suzaku",
+        "score": "67.68"
+      },
+      {
+        "rank": 7,
+        "symbol": "SBET",
+        "engine": "Suzaku",
+        "score": "67.29"
+      },
+      {
+        "rank": 8,
+        "symbol": "DELL",
+        "engine": "Suzaku",
+        "score": "67.13"
+      },
+      {
+        "rank": 9,
+        "symbol": "ZETA",
+        "engine": "Suzaku",
+        "score": "66.81"
+      },
+      {
+        "rank": 10,
+        "symbol": "BULL",
+        "engine": "Suzaku",
+        "score": "66.69"
+      },
+      {
+        "rank": 11,
+        "symbol": "BLSH",
+        "engine": "Suzaku",
+        "score": "65.26"
+      },
+      {
+        "rank": 12,
+        "symbol": "MMED",
+        "engine": "Suzaku",
+        "score": "64.60"
+      },
+      {
+        "rank": 13,
+        "symbol": "GTLB",
+        "engine": "Suzaku",
+        "score": "62.81"
+      }
+    ],
+    "nonce": "5d9e2ffaa0c25031589858f4072609a2d5b4da69951cd503231a4209cc96f827"
+  }
+}
