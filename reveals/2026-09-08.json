@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-08",
+  "commit_hash": "73a7704ec6b0a89e6413aab55f93b5e4cd40598356e5c085333f47dcb55aa0ea",
+  "payload": {
+    "date": "2026-09-08",
+    "engine": "Suzaku",
+    "nav": "211242.17",
+    "ledger_digest": "b6ce4f5ce24883dfaef3d53b86395c09f0ae12c9387fea29ab77217d926724fc",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "IOVA",
+        "engine": "Suzaku",
+        "score": "69.94"
+      },
+      {
+        "rank": 2,
+        "symbol": "LIFE",
+        "engine": "Suzaku",
+        "score": "68.76"
+      },
+      {
+        "rank": 3,
+        "symbol": "SBET",
+        "engine": "Suzaku",
+        "score": "68.37"
+      },
+      {
+        "rank": 4,
+        "symbol": "EPRX",
+        "engine": "Suzaku",
+        "score": "67.35"
+      },
+      {
+        "rank": 5,
+        "symbol": "BLSH",
+        "engine": "Suzaku",
+        "score": "66.97"
+      },
+      {
+        "rank": 6,
+        "symbol": "BMNR",
+        "engine": "Suzaku",
+        "score": "66.77"
+      },
+      {
+        "rank": 7,
+        "symbol": "CVI",
+        "engine": "Suzaku",
+        "score": "65.69"
+      },
+      {
+        "rank": 8,
+        "symbol": "SMMT",
+        "engine": "Suzaku",
+        "score": "64.64"
+      }
+    ],
+    "nonce": "1dfd0c3220c7f08060312e9cc345938aa9dad41f1deaf427a73be2d2140b6441"
+  }
+}
