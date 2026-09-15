@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-11",
+  "commit_hash": "e834ca847c376df53896b01d0decd9e01ac68283e7422291c7ea0f113f5487ac",
+  "payload": {
+    "date": "2026-09-11",
+    "engine": "Suzaku",
+    "nav": "210946.05",
+    "ledger_digest": "b48727cf887bcc4a5e34a676a247d83a8ff7f9d153f32fd0c10ffdbd6f32faea",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "CVI",
+        "engine": "Suzaku",
+        "score": "65.68"
+      },
+      {
+        "rank": 2,
+        "symbol": "LIFE",
+        "engine": "Suzaku",
+        "score": "65.30"
+      },
+      {
+        "rank": 3,
+        "symbol": "PLSE",
+        "engine": "Suzaku",
+        "score": "63.23"
+      }
+    ],
+    "nonce": "12f0dc7741da3e065b6be17da65ca60fdd5a7aaeaf720de2c7f6d0031d1c6e2f"
+  }
+}
