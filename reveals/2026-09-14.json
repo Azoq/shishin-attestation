@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-14",
+  "commit_hash": "f82978c574e44cd4ebeb8de7a4dc6de0071710baa6e393f23d53a79159a4e1f7",
+  "payload": {
+    "date": "2026-09-14",
+    "engine": "Suzaku",
+    "nav": "202854.16",
+    "ledger_digest": "1292b7f31199dcec4507544dd9bf86ab0eff2a9dbc2350613a854a28839f96bf",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "72.47"
+      },
+      {
+        "rank": 2,
+        "symbol": "LIFE",
+        "engine": "Suzaku",
+        "score": "66.76"
+      },
+      {
+        "rank": 3,
+        "symbol": "NMAX",
+        "engine": "Suzaku",
+        "score": "65.42"
+      },
+      {
+        "rank": 4,
+        "symbol": "DELL",
+        "engine": "Suzaku",
+        "score": "65.07"
+      },
+      {
+        "rank": 5,
+        "symbol": "CVI",
+        "engine": "Suzaku",
+        "score": "64.43"
+      },
+      {
+        "rank": 6,
+        "symbol": "SBET",
+        "engine": "Suzaku",
+        "score": "64.36"
+      },
+      {
+        "rank": 7,
+        "symbol": "IOVA",
+        "engine": "Suzaku",
+        "score": "64.14"
+      },
+      {
+        "rank": 8,
+        "symbol": "BLSH",
+        "engine": "Suzaku",
+        "score": "62.44"
+      }
+    ],
+    "nonce": "e3a45d809f1e7210e9c8ba71d3b57070a23da9688a3de56f6971fb019b646c2f"
+  }
+}
