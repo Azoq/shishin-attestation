@@ -1,0 +1,97 @@
+{
+  "date": "2026-09-15",
+  "commit_hash": "251985a2abbc3a8761a9edfff61da0cc1d38a3c2f2a9b4df85224bf3695bb097",
+  "payload": {
+    "date": "2026-09-15",
+    "engine": "Suzaku",
+    "nav": "205839.16",
+    "ledger_digest": "2c065a0e301ce19c9b6ba501fa3867bebbdf1667831023f49cecd06a06ed04a8",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "NTSK",
+        "engine": "Suzaku",
+        "score": "77.37"
+      },
+      {
+        "rank": 2,
+        "symbol": "NUTX",
+        "engine": "Suzaku",
+        "score": "73.80"
+      },
+      {
+        "rank": 3,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "69.73"
+      },
+      {
+        "rank": 4,
+        "symbol": "MRNA",
+        "engine": "Suzaku",
+        "score": "69.48"
+      },
+      {
+        "rank": 5,
+        "symbol": "IOVA",
+        "engine": "Suzaku",
+        "score": "68.62"
+      },
+      {
+        "rank": 6,
+        "symbol": "SBET",
+        "engine": "Suzaku",
+        "score": "68.27"
+      },
+      {
+        "rank": 7,
+        "symbol": "ZS",
+        "engine": "Suzaku",
+        "score": "68.23"
+      },
+      {
+        "rank": 8,
+        "symbol": "BLSH",
+        "engine": "Suzaku",
+        "score": "67.14"
+      },
+      {
+        "rank": 9,
+        "symbol": "OKTA",
+        "engine": "Suzaku",
+        "score": "66.74"
+      },
+      {
+        "rank": 10,
+        "symbol": "BMNR",
+        "engine": "Suzaku",
+        "score": "66.51"
+      },
+      {
+        "rank": 11,
+        "symbol": "LIFE",
+        "engine": "Suzaku",
+        "score": "65.50"
+      },
+      {
+        "rank": 12,
+        "symbol": "SMMT",
+        "engine": "Suzaku",
+        "score": "65.42"
+      },
+      {
+        "rank": 13,
+        "symbol": "DK",
+        "engine": "Suzaku",
+        "score": "65.04"
+      },
+      {
+        "rank": 14,
+        "symbol": "CVI",
+        "engine": "Suzaku",
+        "score": "64.21"
+      }
+    ],
+    "nonce": "10e69a1348e43831cabdaa8dbd182ecdfd96d84a71af288a4a2ca26bd12b12f4"
+  }
+}
