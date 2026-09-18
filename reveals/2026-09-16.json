@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-16",
+  "commit_hash": "2ac23c8c155e84d4e7ce6975cb2959f150e7710d2a58e1d07a22953cc50726c6",
+  "payload": {
+    "date": "2026-09-16",
+    "engine": "Suzaku",
+    "nav": "206958.06",
+    "ledger_digest": "2c065a0e301ce19c9b6ba501fa3867bebbdf1667831023f49cecd06a06ed04a8",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "NTSK",
+        "engine": "Suzaku",
+        "score": "78.93"
+      },
+      {
+        "rank": 2,
+        "symbol": "WGS",
+        "engine": "Suzaku",
+        "score": "71.74"
+      },
+      {
+        "rank": 3,
+        "symbol": "IOVA",
+        "engine": "Suzaku",
+        "score": "70.76"
+      },
+      {
+        "rank": 4,
+        "symbol": "CAI",
+        "engine": "Suzaku",
+        "score": "69.14"
+      },
+      {
+        "rank": 5,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "69.05"
+      },
+      {
+        "rank": 6,
+        "symbol": "OKTA",
+        "engine": "Suzaku",
+        "score": "68.72"
+      },
+      {
+        "rank": 7,
+        "symbol": "CVI",
+        "engine": "Suzaku",
+        "score": "67.89"
+      },
+      {
+        "rank": 8,
+        "symbol": "SDGR",
+        "engine": "Suzaku",
+        "score": "67.57"
+      },
+      {
+        "rank": 9,
+        "symbol": "BNGO",
+        "engine": "Suzaku",
+        "score": "67.29"
+      },
+      {
+        "rank": 10,
+        "symbol": "GH",
+        "engine": "Suzaku",
+        "score": "66.06"
+      },
+      {
+        "rank": 11,
+        "symbol": "S",
+        "engine": "Suzaku",
+        "score": "65.70"
+      },
+      {
+        "rank": 12,
+        "symbol": "LIFE",
+        "engine": "Suzaku",
+        "score": "65.52"
+      },
+      {
+        "rank": 13,
+        "symbol": "MRNA",
+        "engine": "Suzaku",
+        "score": "62.85"
+      }
+    ],
+    "nonce": "047c2d58c63249a62fa4b02ebc8e4f4be15acd1eb7fb54f32116cb0f4fcdc640"
+  }
+}
