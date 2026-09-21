@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-17",
+  "commit_hash": "dbfc3530a773432edf6866efa30b2e4996e8107d11526b6d6804bd9f9a44d07f",
+  "payload": {
+    "date": "2026-09-17",
+    "engine": "Suzaku",
+    "nav": "206940.38",
+    "ledger_digest": "2c065a0e301ce19c9b6ba501fa3867bebbdf1667831023f49cecd06a06ed04a8",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "IOVA",
+        "engine": "Suzaku",
+        "score": "73.34"
+      },
+      {
+        "rank": 2,
+        "symbol": "DK",
+        "engine": "Suzaku",
+        "score": "69.45"
+      },
+      {
+        "rank": 3,
+        "symbol": "CVI",
+        "engine": "Suzaku",
+        "score": "68.54"
+      },
+      {
+        "rank": 4,
+        "symbol": "SDGR",
+        "engine": "Suzaku",
+        "score": "67.59"
+      },
+      {
+        "rank": 5,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "66.18"
+      },
+      {
+        "rank": 6,
+        "symbol": "BBNX",
+        "engine": "Suzaku",
+        "score": "65.89"
+      },
+      {
+        "rank": 7,
+        "symbol": "MRNA",
+        "engine": "Suzaku",
+        "score": "63.31"
+      }
+    ],
+    "nonce": "5aad30f13f35d3170c7f3bdea618c157fff3761f88a4dbefad707c8dd1968986"
+  }
+}
