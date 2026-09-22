@@ -1,0 +1,109 @@
+{
+  "date": "2026-09-18",
+  "commit_hash": "a74b948e6957fde7e21ef4dac17e361837e4c0ed30110974e0be5abe288bcac0",
+  "payload": {
+    "date": "2026-09-18",
+    "engine": "Suzaku",
+    "nav": "208801.88",
+    "ledger_digest": "2c065a0e301ce19c9b6ba501fa3867bebbdf1667831023f49cecd06a06ed04a8",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "WGS",
+        "engine": "Suzaku",
+        "score": "75.82"
+      },
+      {
+        "rank": 2,
+        "symbol": "CAI",
+        "engine": "Suzaku",
+        "score": "75.36"
+      },
+      {
+        "rank": 3,
+        "symbol": "IOVA",
+        "engine": "Suzaku",
+        "score": "71.83"
+      },
+      {
+        "rank": 4,
+        "symbol": "PURR",
+        "engine": "Suzaku",
+        "score": "70.70"
+      },
+      {
+        "rank": 5,
+        "symbol": "DK",
+        "engine": "Suzaku",
+        "score": "70.21"
+      },
+      {
+        "rank": 6,
+        "symbol": "GH",
+        "engine": "Suzaku",
+        "score": "69.75"
+      },
+      {
+        "rank": 7,
+        "symbol": "SDGR",
+        "engine": "Suzaku",
+        "score": "69.68"
+      },
+      {
+        "rank": 8,
+        "symbol": "TWST",
+        "engine": "Suzaku",
+        "score": "69.46"
+      },
+      {
+        "rank": 9,
+        "symbol": "HELP",
+        "engine": "Suzaku",
+        "score": "69.02"
+      },
+      {
+        "rank": 10,
+        "symbol": "QMCO",
+        "engine": "Suzaku",
+        "score": "68.77"
+      },
+      {
+        "rank": 11,
+        "symbol": "DELL",
+        "engine": "Suzaku",
+        "score": "68.74"
+      },
+      {
+        "rank": 12,
+        "symbol": "TEM",
+        "engine": "Suzaku",
+        "score": "68.73"
+      },
+      {
+        "rank": 13,
+        "symbol": "CVI",
+        "engine": "Suzaku",
+        "score": "68.15"
+      },
+      {
+        "rank": 14,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "68.06"
+      },
+      {
+        "rank": 15,
+        "symbol": "MRNA",
+        "engine": "Suzaku",
+        "score": "65.46"
+      },
+      {
+        "rank": 16,
+        "symbol": "ABCL",
+        "engine": "Suzaku",
+        "score": "63.09"
+      }
+    ],
+    "nonce": "ff57308414a1051ce6e4f2451cae0ccefe366825f4ed97c3c484ea332e766d9f"
+  }
+}
