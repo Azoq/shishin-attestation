@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-21",
+  "commit_hash": "a876732bddb8f807aa3597fe8f0607bdc466e9dd895526bacd66df3202426edf",
+  "payload": {
+    "date": "2026-09-21",
+    "engine": "Suzaku",
+    "nav": "207444.98",
+    "ledger_digest": "2c065a0e301ce19c9b6ba501fa3867bebbdf1667831023f49cecd06a06ed04a8",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "FWDI",
+        "engine": "Suzaku",
+        "score": "76.25"
+      },
+      {
+        "rank": 2,
+        "symbol": "PS",
+        "engine": "Suzaku",
+        "score": "74.99"
+      },
+      {
+        "rank": 3,
+        "symbol": "PURR",
+        "engine": "Suzaku",
+        "score": "73.23"
+      },
+      {
+        "rank": 4,
+        "symbol": "MSTR",
+        "engine": "Suzaku",
+        "score": "71.98"
+      },
+      {
+        "rank": 5,
+        "symbol": "ABTC",
+        "engine": "Suzaku",
+        "score": "71.37"
+      },
+      {
+        "rank": 6,
+        "symbol": "DFDV",
+        "engine": "Suzaku",
+        "score": "70.68"
+      },
+      {
+        "rank": 7,
+        "symbol": "SDGR",
+        "engine": "Suzaku",
+        "score": "69.43"
+      },
+      {
+        "rank": 8,
+        "symbol": "SBET",
+        "engine": "Suzaku",
+        "score": "68.31"
+      },
+      {
+        "rank": 9,
+        "symbol": "CVI",
+        "engine": "Suzaku",
+        "score": "67.74"
+      },
+      {
+        "rank": 10,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "66.96"
+      },
+      {
+        "rank": 11,
+        "symbol": "TEM",
+        "engine": "Suzaku",
+        "score": "66.64"
+      },
+      {
+        "rank": 12,
+        "symbol": "BLSH",
+        "engine": "Suzaku",
+        "score": "66.57"
+      },
+      {
+        "rank": 13,
+        "symbol": "IOVA",
+        "engine": "Suzaku",
+        "score": "65.75"
+      },
+      {
+        "rank": 14,
+        "symbol": "WGS",
+        "engine": "Suzaku",
+        "score": "65.58"
+      },
+      {
+        "rank": 15,
+        "symbol": "CAI",
+        "engine": "Suzaku",
+        "score": "65.47"
+      },
+      {
+        "rank": 16,
+        "symbol": "TWST",
+        "engine": "Suzaku",
+        "score": "64.19"
+      },
+      {
+        "rank": 17,
+        "symbol": "MRNA",
+        "engine": "Suzaku",
+        "score": "63.40"
+      }
+    ],
+    "nonce": "dba24410738e8cb2072314f0514c53e3f02b1291aebc3f5b75373711a3b3d2f1"
+  }
+}
