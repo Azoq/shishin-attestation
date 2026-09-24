@@ -1,0 +1,133 @@
+{
+  "date": "2026-09-22",
+  "commit_hash": "d6e5a56141dba5b14dc808af7f62c6c2df35ed78488a687ef057e927e9be9f27",
+  "payload": {
+    "date": "2026-09-22",
+    "engine": "Suzaku",
+    "nav": "207070.84",
+    "ledger_digest": "2c065a0e301ce19c9b6ba501fa3867bebbdf1667831023f49cecd06a06ed04a8",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "SBET",
+        "engine": "Suzaku",
+        "score": "80.35"
+      },
+      {
+        "rank": 2,
+        "symbol": "P",
+        "engine": "Suzaku",
+        "score": "79.90"
+      },
+      {
+        "rank": 3,
+        "symbol": "MRNA",
+        "engine": "Suzaku",
+        "score": "75.41"
+      },
+      {
+        "rank": 4,
+        "symbol": "BMNR",
+        "engine": "Suzaku",
+        "score": "74.26"
+      },
+      {
+        "rank": 5,
+        "symbol": "DFDV",
+        "engine": "Suzaku",
+        "score": "73.96"
+      },
+      {
+        "rank": 6,
+        "symbol": "MSTR",
+        "engine": "Suzaku",
+        "score": "71.84"
+      },
+      {
+        "rank": 7,
+        "symbol": "RBRK",
+        "engine": "Suzaku",
+        "score": "71.76"
+      },
+      {
+        "rank": 8,
+        "symbol": "XHLD",
+        "engine": "Suzaku",
+        "score": "71.38"
+      },
+      {
+        "rank": 9,
+        "symbol": "PURR",
+        "engine": "Suzaku",
+        "score": "70.06"
+      },
+      {
+        "rank": 10,
+        "symbol": "BLSH",
+        "engine": "Suzaku",
+        "score": "69.85"
+      },
+      {
+        "rank": 11,
+        "symbol": "NTSK",
+        "engine": "Suzaku",
+        "score": "69.36"
+      },
+      {
+        "rank": 12,
+        "symbol": "FSLY",
+        "engine": "Suzaku",
+        "score": "68.81"
+      },
+      {
+        "rank": 13,
+        "symbol": "NET",
+        "engine": "Suzaku",
+        "score": "68.62"
+      },
+      {
+        "rank": 14,
+        "symbol": "TXG",
+        "engine": "Suzaku",
+        "score": "68.32"
+      },
+      {
+        "rank": 15,
+        "symbol": "ZS",
+        "engine": "Suzaku",
+        "score": "67.46"
+      },
+      {
+        "rank": 16,
+        "symbol": "TWST",
+        "engine": "Suzaku",
+        "score": "67.38"
+      },
+      {
+        "rank": 17,
+        "symbol": "SPCE",
+        "engine": "Suzaku",
+        "score": "67.12"
+      },
+      {
+        "rank": 18,
+        "symbol": "NUAI",
+        "engine": "Suzaku",
+        "score": "67.05"
+      },
+      {
+        "rank": 19,
+        "symbol": "CVI",
+        "engine": "Suzaku",
+        "score": "66.78"
+      },
+      {
+        "rank": 20,
+        "symbol": "FIVN",
+        "engine": "Suzaku",
+        "score": "66.73"
+      }
+    ],
+    "nonce": "0cda2492873c32f0223dbb58788c5bd41797db26c64e89520a3e5e13a4e33e18"
+  }
+}
