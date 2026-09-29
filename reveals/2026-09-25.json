@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-25",
+  "commit_hash": "7ca0befc5ac918271686d2df8e04b526e85576cffc3d8284d768d0040e603003",
+  "payload": {
+    "date": "2026-09-25",
+    "engine": "Byakko",
+    "nav": "205046.70",
+    "ledger_digest": "54fcf9c022bacfcca23158cbcc05e1145e8c015d994a858a6354252564ff8fac",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "CHSN",
+        "engine": "Byakko",
+        "score": "61.37"
+      }
+    ],
+    "nonce": "a26575eceed7f7fa567830aaf133b2f7222c48be04f2624790db77c23a70e92a"
+  }
+}
