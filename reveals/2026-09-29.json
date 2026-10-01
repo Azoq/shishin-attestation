@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-29",
+  "commit_hash": "8d99c1698a0e193d9fcd659f60ac203251d6f0b42fd0c157b2f0245208cd3ae9",
+  "payload": {
+    "date": "2026-09-29",
+    "engine": "Byakko",
+    "nav": "205119.90",
+    "ledger_digest": "54fcf9c022bacfcca23158cbcc05e1145e8c015d994a858a6354252564ff8fac",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "BYSI",
+        "engine": "Byakko",
+        "score": "55.49"
+      },
+      {
+        "rank": 2,
+        "symbol": "NAUT",
+        "engine": "Byakko",
+        "score": "53.17"
+      }
+    ],
+    "nonce": "7732263d866a30217f38b31cfcbc937a484b16e84c8ea67a5d53e8dc43c3d337"
+  }
+}
