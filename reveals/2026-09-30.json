@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-30",
+  "commit_hash": "a974c8146075d64374e81d2244942de952e40c1af1978e6d5da13cbab863b20b",
+  "payload": {
+    "date": "2026-09-30",
+    "engine": "Byakko",
+    "nav": "211640.31",
+    "ledger_digest": "f5686aea7e9d7dc4130d58a87f009f0b1c3453f1d9670b43f9f150874bac8bea",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "BGIN",
+        "engine": "Byakko",
+        "score": "63.50"
+      }
+    ],
+    "nonce": "73ea26ab418337cf781ee181ddcb0c07bfd3f63c53e08143b7b5f257a7a4f3b7"
+  }
+}
