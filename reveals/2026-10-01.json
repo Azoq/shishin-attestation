@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-01",
+  "commit_hash": "b4f436ff702259f1e45860d6991e78b2bdbdd4630660a64ad16a1b5d3d74d01f",
+  "payload": {
+    "date": "2026-10-01",
+    "engine": "Byakko",
+    "nav": "215726.44",
+    "ledger_digest": "ba3de4404592436f2de8475750ebb67faf63e3f961472b5c7180a51f201a5a97",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "AEON",
+        "engine": "Byakko",
+        "score": "55.18"
+      }
+    ],
+    "nonce": "4f03b16d6ea1e473b7f53983e17f3833348673480f9f2d70faaf3a056a793bb6"
+  }
+}
