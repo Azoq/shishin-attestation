@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-05",
+  "commit_hash": "f1e8c4ce11db9a084e72ea6a1041c65ba972038211c342ff998e7045de82e4c5",
+  "payload": {
+    "date": "2026-10-05",
+    "engine": "Byakko",
+    "nav": "229179.25",
+    "ledger_digest": "eb6498b53aaa0b31899090716efb9aa46e09e5c12887a2c47ff0c5ca85af5147",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "PMI",
+        "engine": "Byakko",
+        "score": "32.70"
+      }
+    ],
+    "nonce": "df8c56a20bb9fbcff755e152c5f76afd721c0ac6e5bb12e447b0bf1ea073aaed"
+  }
+}
