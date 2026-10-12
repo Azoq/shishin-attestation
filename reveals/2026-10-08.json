@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-08",
+  "commit_hash": "22030456cb6548455d3beacf9cae5e2077925b58a23f7a4b78e4c1ae542524fb",
+  "payload": {
+    "date": "2026-10-08",
+    "engine": "Byakko",
+    "nav": "223700.26",
+    "ledger_digest": "c3cdea2b76a7ecf07bbc6d056188eed1f24cf5677b7167b12416154fc488c6a8",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "RMCF",
+        "engine": "Byakko",
+        "score": "60.44"
+      },
+      {
+        "rank": 2,
+        "symbol": "JVA",
+        "engine": "Byakko",
+        "score": "67.33"
+      },
+      {
+        "rank": 3,
+        "symbol": "ICU",
+        "engine": "Byakko",
+        "score": "31.88"
+      },
+      {
+        "rank": 4,
+        "symbol": "HRTX",
+        "engine": "Byakko",
+        "score": "27.95"
+      },
+      {
+        "rank": 5,
+        "symbol": "IRIX",
+        "engine": "Byakko",
+        "score": "58.69"
+      }
+    ],
+    "nonce": "8b3c26ac2ef741ce2e00f19f17308783fed9f933c41ca6dc4b2a0a4d048efd98"
+  }
+}
