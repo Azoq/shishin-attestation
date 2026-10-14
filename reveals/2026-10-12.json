@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-12",
+  "commit_hash": "caba94ccce65f5ea3a1fab5780d34b43a293741bce32ad22cbcdb048079176ad",
+  "payload": {
+    "date": "2026-10-12",
+    "engine": "Byakko",
+    "nav": "228509.24",
+    "ledger_digest": "bc1decf3740ec506682c188448c20aa283cb2d88bd61b6ce14a1576a24414134",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "QDEL",
+        "engine": "Byakko",
+        "score": "58.97"
+      }
+    ],
+    "nonce": "17f9a92fcb05ab6f6a49da2b41db32e968b491e6ce056951e7480fd3951768cf"
+  }
+}
