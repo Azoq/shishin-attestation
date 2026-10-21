@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-19",
+  "commit_hash": "ca4e6dc9825fc4418ef929ccb4a92819795b4d6d98650ea91eb463bcff46f237",
+  "payload": {
+    "date": "2026-10-19",
+    "engine": "Byakko",
+    "nav": "225556.39",
+    "ledger_digest": "960d9dddb0c3ada6e5d2f4e286b5c82fb9e7f52f65379b8d4c6c60208861c71c",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "KOS",
+        "engine": "Byakko",
+        "score": "57.28"
+      }
+    ],
+    "nonce": "dea4ce96bb252a13db762ce7b54e173eff9dc871a1d74bece14366798fdde580"
+  }
+}
