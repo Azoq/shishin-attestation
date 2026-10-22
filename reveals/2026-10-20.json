@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-20",
+  "commit_hash": "e40078c49195f17580165e81881bea722c7621bd586d795e99d4cc9255bc4125",
+  "payload": {
+    "date": "2026-10-20",
+    "engine": "Byakko",
+    "nav": "224422.41",
+    "ledger_digest": "858ade2017763c420ce0d2c533cc99d310a3bdd97df185f0c97a10feeb8ac801",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "AGL",
+        "engine": "Byakko",
+        "score": "59.03"
+      }
+    ],
+    "nonce": "d35061d3b6f464d5e6c86b931be6c3d5dd99a69fad0f7d60aa67aa24b5f27aba"
+  }
+}
