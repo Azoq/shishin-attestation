@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-21",
+  "commit_hash": "8b8d06a4b777ae02ff173483d3697f2ad2ff8a4fb92d4891fbb8ace71da4cdfb",
+  "payload": {
+    "date": "2026-10-21",
+    "engine": "Byakko",
+    "nav": "223610.89",
+    "ledger_digest": "dc8c1e25f1215f23ec30737659d66837193f8c9fc44f91a9a2cdc96a83a67c23",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "PLSE",
+        "engine": "Byakko",
+        "score": "27.34"
+      }
+    ],
+    "nonce": "2db7dfae70ca7b72975237fe07f7fee8a26273244f66c612d58ed58493f84149"
+  }
+}
