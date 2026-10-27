@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-23",
+  "commit_hash": "e7abfb7b1601e06d256e25396abf76de7126547ebf858f43bd98ab31af575d0c",
+  "payload": {
+    "date": "2026-10-23",
+    "engine": "Byakko",
+    "nav": "225675.60",
+    "ledger_digest": "0f20c5123ecb41f89c625e03977f94f01155e917d00caef1fbf7c4c0f15ddc4a",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "BBNX",
+        "engine": "Byakko",
+        "score": "27.13"
+      },
+      {
+        "rank": 2,
+        "symbol": "PRCT",
+        "engine": "Byakko",
+        "score": "60.22"
+      }
+    ],
+    "nonce": "d56adc377c63b476a38ead21cc6f7274ef978e1fd53b2e93f7ac4d9934c8a7e1"
+  }
+}
