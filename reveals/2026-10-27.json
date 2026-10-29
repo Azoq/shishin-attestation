@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-27",
+  "commit_hash": "73d7f1a2b2ab05dda80a1304dde5a82a70ab2b35914e179c40b9be6aaeaf8dca",
+  "payload": {
+    "date": "2026-10-27",
+    "engine": "Byakko",
+    "nav": "226883.89",
+    "ledger_digest": "934da443c689a79ecdac952d8e1d6d238acdba375d5907ca647791a14f48ef9e",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "SYRE",
+        "engine": "Byakko",
+        "score": "58.84"
+      }
+    ],
+    "nonce": "d0bfa6f855d7e94077b35440e29a717e856554fa3283bd9dd7a2b10b673f4f0d"
+  }
+}
