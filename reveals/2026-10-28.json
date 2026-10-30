@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-28",
+  "commit_hash": "b53042f99259fc4b2e60d4bda603173d3afa522dfdda3dcbe68717848d1d6b26",
+  "payload": {
+    "date": "2026-10-28",
+    "engine": "Byakko",
+    "nav": "227287.88",
+    "ledger_digest": "934da443c689a79ecdac952d8e1d6d238acdba375d5907ca647791a14f48ef9e",
+    "signals": [
+      {
+        "rank": 1,
+        "symbol": "BRKR",
+        "engine": "Byakko",
+        "score": "25.54"
+      }
+    ],
+    "nonce": "ede047a8b5c369c3a798a5d37c7f574700dcfa1a81266f55c9d356704ddf6f99"
+  }
+}
